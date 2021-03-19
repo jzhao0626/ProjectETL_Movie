@@ -1,6 +1,6 @@
 # ProjectETL_Movie
 
-## Proposal 
+## Project Proposal 
 
 DataBaes are looking at the correlation between Emmy nominations, Rotten Tomato ratings, IMDB ratings, and parental advisory ratings across streaming platforms. We followed ETL to clean our data so it can be analyzed.   
 
