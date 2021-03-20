@@ -10,4 +10,5 @@ DataBaes are looking at the correlation between IMDB ratings and title genres in
 
 * **Transform:**  To transform our data we started by analyzing the above CSV files and narrowing the information. We filtered and dropped unwanted columns and null values from the netflix-shows data to narrow our dataset to eight columns: show_id, type, title, country, data_added, release_year, rating, and listed_in.
 
-* **Load:** The final database is called Emmy_Streaming_Clean. This final dataset shows data about Emmy nominations for streaming platform titles. We are hoping to establish a correlation between the merged columns in an effort to identify if any of these indicators can be used as predictors of Emmy nominations.  
+* **Load:** Our final dataframe is housed in a relational database created in pgAdmin titled DataBaes. We chose a relational database to support the table and row structure of our dataframe. This final database includes information about Netflix titles and also reflects viewer reviews from IMDb.
+* More in depth analysis and appendix can be found in the <ins>ETL Project: Netflix Ratings and Production<ins>.
