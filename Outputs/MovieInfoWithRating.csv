@@ -1,0 +1,1000 @@
+,title,imdb_rating,show_id,type,country,date_added,release_year,rating,listed_in,genres
+0,Spider-Man: Into the Spider-Verse,8.4,s5755,Movie,United States,"June 26, 2019",2018,PG,"Action & Adventure, Comedies",Action & Adventure
+1,Django Unchained,8.4,s1788,Movie,United States,"April 25, 2020",2012,R,"Action & Adventure, Dramas",Action & Adventure
+2,Taxi Driver,8.3,s5995,Movie,United States,"April 1, 2020",1976,R,"Classic Movies, Dramas, Thrillers",Classic Movies
+3,Pan's Labyrinth,8.2,s4750,Movie,"Mexico, Spain","January 1, 2020",2006,R,"Dramas, International Movies, Sci-Fi & Fantasy",Dramas
+4,Spotlight,8.1,s5770,Movie,United States,"July 22, 2020",2015,R,"Dramas, Independent Movies",Dramas
+5,Monty Python and the Holy Grail,8.2,s4208,Movie,United Kingdom,"January 2, 2019",1975,PG,"Action & Adventure, Classic Movies, Comedies",Action & Adventure
+6,Casino Royale,8.0,s1235,Movie,"United Kingdom, Czech Republic, United States, Germany, Bahamas","August 31, 2020",2006,PG-13,Action & Adventure,Action & Adventure
+7,3 Idiots,8.4,s101,Movie,India,"August 1, 2019",2009,PG-13,"Comedies, Dramas, International Movies",Comedies
+8,Indiana Jones and the Last Crusade,8.2,s2992,Movie,United States,"January 1, 2019",1989,PG-13,"Action & Adventure, Children & Family Movies, Classic Movies",Action & Adventure
+9,Her,8.0,s2701,Movie,United States,"July 29, 2018",2013,R,"Dramas, Romantic Movies, Sci-Fi & Fantasy",Dramas
+10,Nightcrawler,7.9,s4470,Movie,United States,"August 10, 2020",2014,R,"Dramas, Independent Movies, Thrillers",Dramas
+11,Dallas Buyers Club,8.0,s1584,Movie,United States,"January 16, 2018",2013,R,"Dramas, Independent Movies, LGBTQ Movies",Dramas
+12,The Perks of Being a Wallflower,8.0,s6753,Movie,United States,"April 1, 2020",2012,PG-13,"Comedies, Dramas",Comedies
+13,There Will Be Blood,8.2,s7039,Movie,United States,"March 1, 2020",2007,R,"Dramas, Independent Movies",Dramas
+14,The Social Network,7.7,s6885,Movie,United States,"April 1, 2020",2010,PG-13,Dramas,Dramas
+15,District 9,7.9,s1784,Movie,"South Africa, United States, New Zealand, Canada","November 4, 2019",2009,R,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Action & Adventure
+16,Silver Linings Playbook,7.7,s5611,Movie,United States,"March 16, 2020",2012,R,"Comedies, Dramas, Independent Movies",Comedies
+17,Gran Torino,8.1,s2511,Movie,"Germany, United States","October 1, 2020",2008,R,Dramas,Dramas
+18,The Irishman,7.9,s6508,Movie,United States,"November 27, 2019",2019,R,Dramas,Dramas
+19,How to Train Your Dragon 2,7.8,s2852,Movie,United States,"September 11, 2020",2014,PG,Children & Family Movies,Children & Family Movies
+20,Drive,7.8,s1879,Movie,India,"November 1, 2019",2019,TV-14,"Action & Adventure, International Movies",Action & Adventure
+21,Marriage Story,8.0,s3950,Movie,"United Kingdom, United States","December 6, 2019",2019,R,Dramas,Dramas
+22,Dangal,8.4,s1596,Movie,India,"June 21, 2017",2016,TV-PG,"Dramas, International Movies, Sports Movies",Dramas
+23,Zodiac,7.7,s7775,Movie,United States,"November 20, 2019",2007,R,"Cult Movies, Dramas, Thrillers",Cult Movies
+24,Klaus,8.2,s3421,Movie,"Spain, United Kingdom","November 15, 2019",2019,PG,"Children & Family Movies, Comedies",Children & Family Movies
+25,Ip Man,8.0,s3048,Movie,"Hong Kong, China","January 15, 2016",2008,R,"Action & Adventure, Dramas, International Movies",Action & Adventure
+26,The Help,8.0,s6448,Movie,United States,"June 1, 2020",2011,PG-13,Dramas,Dramas
+27,Hunt for the Wilderpeople,7.9,s2867,Movie,New Zealand,"October 1, 2020",2016,PG-13,"Action & Adventure, Comedies, Dramas",Action & Adventure
+28,The Theory of Everything,7.7,s6925,Movie,"United Kingdom, Japan, United States","December 16, 2018",2014,PG-13,"Dramas, Romantic Movies",Dramas
+29,Lady Bird,7.4,s3513,Movie,United States,"June 3, 2020",2017,R,"Comedies, Dramas, Independent Movies",Comedies
+30,Scott Pilgrim vs. the World,7.5,s5441,Movie,"United States, United Kingdom, Canada, Japan","September 16, 2018",2010,PG-13,"Action & Adventure, Comedies, Cult Movies",Action & Adventure
+31,The Hateful Eight,7.8,s6435,Movie,United States,"October 25, 2017",2015,R,"Action & Adventure, Thrillers",Action & Adventure
+32,Senna,8.5,s5493,Movie,"United Kingdom, France, United States","October 1, 2019",2010,PG-13,"Documentaries, International Movies, Sports Movies",Documentaries
+33,Indiana Jones and the Temple of Doom,7.6,s2994,Movie,United States,"January 1, 2019",1984,PG,"Action & Adventure, Children & Family Movies, Classic Movies",Action & Adventure
+34,Moonlight,7.4,s4223,Movie,United States,"May 21, 2019",2016,R,"Dramas, Independent Movies, LGBTQ Movies",Dramas
+35,The Social Dilemma,7.8,s6884,Movie,United States,"September 9, 2020",2020,PG-13,Documentaries,Documentaries
+36,A Silent Voice,8.1,s229,Movie,Japan,"June 5, 2019",2016,TV-14,"Anime Features, International Movies",Anime Features
+37,The Artist,7.9,s6096,Movie,"France, Belgium, United States","April 25, 2020",2011,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+38,The Evil Dead,7.5,s6338,Movie,United States,"January 10, 2020",1981,TV-MA,"Classic Movies, Cult Movies, Horror Movies",Classic Movies
+39,Blackfish,8.1,s968,Movie,United States,"May 1, 2020",2013,PG-13,Documentaries,Documentaries
+40,Snowpiercer,7.1,s5685,Movie,"South Korea, Czech Republic","May 1, 2019",2013,R,"Action & Adventure, Cult Movies, International Movies",Action & Adventure
+41,The Invisible Guest,8.1,s6505,Movie,Spain,"July 1, 2017",2016,TV-14,"International Movies, Thrillers",International Movies
+42,End of Watch,7.6,s2003,Movie,United States,"November 23, 2019",2012,R,Action & Adventure,Action & Adventure
+43,About Time,7.8,s288,Movie,United Kingdom,"April 16, 2019",2013,R,"Comedies, Dramas, International Movies",Comedies
+44,Total Recall,7.5,s7163,Movie,"United States, Mexico","July 1, 2020",1990,R,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+45,Hugo,7.5,s2858,Movie,"United Kingdom, United States, France","March 1, 2020",2011,PG,"Children & Family Movies, Dramas",Children & Family Movies
+46,Molly's Game,7.4,s4169,Movie,"China, Canada, United States","April 1, 2020",2017,R,Dramas,Dramas
+47,Grease,7.2,s2523,Movie,United States,"November 1, 2019",1978,PG,"Classic Movies, Comedies, Music & Musicals",Classic Movies
+48,Black Mirror: Bandersnatch,7.2,s958,Movie,United States,"December 28, 2018",2018,TV-MA,"Dramas, International Movies, Sci-Fi & Fantasy",Dramas
+49,El Camino: A Breaking Bad Movie,7.3,s1946,Movie,United States,"October 11, 2019",2019,TV-MA,"Dramas, Thrillers",Dramas
+50,Kung Fu Hustle,7.7,s3465,Movie,"Hong Kong, China, United States","April 1, 2020",2004,R,"Action & Adventure, Comedies, Cult Movies",Action & Adventure
+51,Article 15,8.2,s590,Movie,India,"September 6, 2019",2019,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+52,The Two Popes,7.6,s6956,Movie,"United Kingdom, Italy","December 20, 2019",2019,PG-13,Dramas,Dramas
+53,The Disaster Artist,7.4,s6303,Movie,United States,"June 1, 2020",2017,R,"Comedies, Dramas",Comedies
+54,The Naked Gun: From the Files of Police Squad!,7.6,s6698,Movie,United States,"January 1, 2021",1988,PG-13,"Comedies, Cult Movies",Comedies
+55,The Florida Project,7.6,s6363,Movie,United States,"April 6, 2020",2017,R,"Dramas, Independent Movies",Dramas
+56,Icarus,7.9,s2933,Movie,United States,"August 4, 2017",2017,TV-MA,"Documentaries, Sports Movies",Documentaries
+57,Good Time,7.4,s2491,Movie,United States,"February 11, 2020",2017,R,"Dramas, Independent Movies, Thrillers",Dramas
+58,Saving Mr. Banks,7.5,s5417,Movie,"United States, United Kingdom, Australia","March 2, 2019",2013,PG-13,"Comedies, Dramas",Comedies
+59,David Attenborough: A Life on Our Planet,9.2,s1634,Movie,"United States, United Kingdom","October 4, 2020",2020,PG,Documentaries,Documentaries
+60,The Ballad of Buster Scruggs,7.3,s6111,Movie,United States,"November 16, 2018",2018,R,"Comedies, Dramas",Comedies
+61,Okja,7.3,s4599,Movie,"South Korea, United States","June 28, 2017",2017,TV-MA,"Action & Adventure, Comedies, Dramas",Action & Adventure
+62,Uncut Gems,7.4,s7329,Movie,United States,"May 25, 2020",2019,R,"Dramas, Thrillers",Dramas
+63,Ip Man 2,7.5,s3049,Movie,"Hong Kong, China","January 15, 2016",2010,R,"Action & Adventure, International Movies",Action & Adventure
+64,Safety Not Guaranteed,7.0,s5341,Movie,United States,"August 13, 2020",2012,R,"Comedies, Independent Movies, Romantic Movies",Comedies
+65,Beasts of No Nation,7.7,s786,Movie,United States,"October 16, 2015",2015,TV-MA,"Dramas, Independent Movies",Dramas
+66,PK,8.1,s4873,Movie,India,"September 6, 2018",2014,TV-14,"Comedies, Dramas, International Movies",Comedies
+67,Green Room,7.0,s2533,Movie,United States,"November 12, 2018",2015,R,"Horror Movies, Thrillers",Horror Movies
+68,The Dawn Wall,8.1,s6273,Movie,"Austria, United States","March 4, 2019",2017,TV-MA,"Documentaries, Sports Movies",Documentaries
+69,Dolemite Is My Name,7.3,s1799,Movie,United States,"October 25, 2019",2019,R,"Comedies, Dramas",Comedies
+70,The Croods,7.2,s6253,Movie,United States,"July 29, 2019",2013,PG,"Children & Family Movies, Comedies",Children & Family Movies
+71,The Death of Stalin,7.2,s6281,Movie,"United Kingdom, France, Belgium, Canada, United States","April 3, 2020",2017,R,"Comedies, Dramas, Independent Movies",Comedies
+72,GoldenEye,7.2,s2466,Movie,"United Kingdom, United States","December 31, 2019",1995,PG-13,Action & Adventure,Action & Adventure
+73,The Platform,7.0,s6766,TV Show,United Arab Emirates,"September 3, 2020",2020,TV-14,"International TV Shows, TV Dramas",International TV Shows
+74,The Little Prince,7.7,s6603,Movie,"France, Canada, Italy, United States, China","November 6, 2020",2015,PG,Children & Family Movies,Children & Family Movies
+75,The Old Guard,6.6,s6720,Movie,United States,"July 10, 2020",2020,R,Action & Adventure,Action & Adventure
+76,The Lobster,7.2,s6609,Movie,"Ireland, United Kingdom, Greece, France, Netherlands","December 2, 2018",2015,R,"Comedies, International Movies, Romantic Movies",Comedies
+77,Burning,7.5,s1146,Movie,"South Korea, Japan","April 29, 2019",2018,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+78,Mad Max,6.9,s3838,Movie,"Australia, United States","August 1, 2020",1979,R,"Action & Adventure, Classic Movies, Cult Movies",Action & Adventure
+79,The Gift,7.0,s6394,TV Show,Turkey,"September 10, 2020",2020,TV-MA,"International TV Shows, TV Dramas, TV Mysteries",International TV Shows
+80,Ip Man 4: The Finale,7.1,s3051,Movie,"Hong Kong, China","July 21, 2020",2019,TV-MA,"Action & Adventure, Dramas, International Movies",Action & Adventure
+81,The Princess and the Frog,7.1,s6780,Movie,United States,"July 16, 2019",2009,G,Children & Family Movies,Children & Family Movies
+82,Bad Genius,7.6,s692,Movie,Thailand,"June 1, 2018",2017,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+83,Steve Jobs,7.2,s5815,Movie,"United Kingdom, United States","January 16, 2020",2015,R,Dramas,Dramas
+84,The Muppets,7.1,s6693,Movie,United States,"September 1, 2020",2011,PG,"Children & Family Movies, Comedies",Children & Family Movies
+85,Zindagi Na Milegi Dobara,8.1,s7770,Movie,India,"December 15, 2019",2011,TV-14,"Comedies, Dramas, International Movies",Comedies
+86,Mudbound,7.4,s4271,Movie,United States,"November 17, 2017",2017,R,"Dramas, Independent Movies",Dramas
+87,Ocean's Thirteen,6.9,s4565,Movie,United States,"October 1, 2019",2007,PG-13,"Action & Adventure, Comedies",Action & Adventure
+88,A Single Man,7.6,s230,Movie,United States,"November 11, 2019",2009,R,"Dramas, Independent Movies, LGBTQ Movies",Dramas
+89,Swades,8.2,s5933,Movie,India,"March 1, 2018",2004,TV-PG,"Dramas, International Movies",Dramas
+90,Miss Americana,7.4,s4133,Movie,United States,"January 31, 2020",2020,TV-MA,"Documentaries, Music & Musicals",Documentaries
+91,I Am Not Your Negro,7.9,s2901,Movie,"Switzerland, France, Belgium, United States","July 3, 2020",2017,PG-13,Documentaries,Documentaries
+92,Troy,7.2,s7239,TV Show,"United Kingdom, South Africa, Australia, United States","April 6, 2018",2018,TV-MA,"British TV Shows, International TV Shows, Romantic TV Shows",British TV Shows
+93,The Queen,7.3,s6794,Movie,United States,"January 23, 2020",1968,TV-MA,"Cult Movies, Documentaries, LGBTQ Movies",Cult Movies
+94,Blue Ruin,7.1,s1002,Movie,"United States, France","February 25, 2019",2013,R,"Independent Movies, Thrillers",Independent Movies
+95,Cloud Atlas,7.4,s1425,Movie,"Germany, United States, Hong Kong, Singapore","August 1, 2017",2012,R,"Action & Adventure, Cult Movies, Dramas",Action & Adventure
+96,Enola Holmes,6.6,s2010,Movie,United Kingdom,"September 23, 2020",2020,PG-13,"Action & Adventure, Children & Family Movies, Dramas",Action & Adventure
+97,Hush,6.6,s2878,Movie,United States,"April 8, 2016",2016,R,"Horror Movies, Thrillers",Horror Movies
+98,The Squid and the Whale,7.3,s6900,Movie,United States,"October 1, 2019",2005,R,"Comedies, Dramas, Independent Movies",Comedies
+99,I Am Mother,6.7,s2897,Movie,Australia,"June 7, 2019",2019,TV-PG,"International Movies, Sci-Fi & Fantasy, Thrillers",International Movies
+100,The King,7.2,s6531,Movie,"United Kingdom, Hungary, Australia","November 1, 2019",2019,R,Dramas,Dramas
+101,The Autopsy of Jane Doe,6.8,s6099,Movie,"United Kingdom, United States","December 30, 2018",2016,R,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+102,The Outpost,6.7,s6735,Movie,"United States, Bulgaria","October 1, 2020",2020,R,"Action & Adventure, Dramas",Action & Adventure
+103,Babel,7.4,s667,Movie,"France, United States, Mexico","January 1, 2019",2006,R,"Dramas, Independent Movies",Dramas
+104,Real Steel,7.1,s5119,Movie,"United States, India","September 24, 2020",2011,PG-13,"Action & Adventure, Sci-Fi & Fantasy, Sports Movies",Action & Adventure
+105,Haider,8.1,s2576,Movie,India,"August 2, 2018",2014,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+106,Pineapple Express,6.9,s4862,Movie,United States,"September 1, 2020",2008,R,"Action & Adventure, Comedies",Action & Adventure
+107,Extraction,6.7,s2072,Movie,United States,"April 24, 2020",2020,R,Action & Adventure,Action & Adventure
+108,Barfi!,8.1,s754,Movie,India,"November 1, 2018",2012,TV-14,"Comedies, Dramas, International Movies",Comedies
+109,Disclosure,8.3,s1777,Movie,United States,"June 19, 2020",2020,TV-MA,"Documentaries, LGBTQ Movies",Documentaries
+110,Bill Burr: I'm Sorry You Feel That Way,8.4,s915,Movie,United States,"December 5, 2014",2014,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+111,The Master,7.2,s6647,Movie,United States,"January 14, 2020",2012,R,"Dramas, Independent Movies",Dramas
+112,The Killing of a Sacred Deer,7.0,s6528,Movie,"Ireland, United Kingdom","April 5, 2020",2017,R,"Dramas, Independent Movies, Thrillers",Dramas
+113,LA 92,8.2,s3487,Movie,United States,"March 1, 2018",2017,R,Documentaries,Documentaries
+114,Miracle,7.5,s4120,Movie,"Canada, United States","June 1, 2018",2004,PG,"Children & Family Movies, Dramas, Sports Movies",Children & Family Movies
+115,The Guest,6.7,s6430,TV Show,South Korea,"December 1, 2020",2018,TV-14,"International TV Shows, TV Horror, TV Mysteries",International TV Shows
+116,Kabhi Khushi Kabhie Gham,7.4,s3283,Movie,India,"April 1, 2020",2001,TV-14,"Dramas, International Movies",Dramas
+117,Lawless,7.3,s3550,Movie,United States,"December 29, 2019",2012,R,Dramas,Dramas
+118,Gerald's Game,6.6,s2380,Movie,United States,"September 29, 2017",2017,TV-MA,"Horror Movies, Thrillers",Horror Movies
+119,The Square,8.1,s6899,Movie,"United Kingdom, Egypt, United States","January 17, 2014",2013,TV-MA,"Documentaries, International Movies",Documentaries
+120,John Mulaney: Kid Gorgeous at Radio City,8.0,s3209,Movie,United States,"May 1, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+121,Midnight Special,6.6,s4081,Movie,"United States, Greece","September 7, 2020",2016,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+122,A Serious Man,7.0,s227,Movie,"United States, United Kingdom, France","January 16, 2018",2009,R,"Comedies, Independent Movies",Comedies
+123,Freaks,6.7,s2267,Movie,"United States, Canada","March 3, 2020",2018,R,"Independent Movies, Sci-Fi & Fantasy, Thrillers",Independent Movies
+124,The Invitation,6.6,s6506,Movie,United States,"July 8, 2016",2015,TV-MA,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+125,The Breadwinner,7.7,s6174,Movie,"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India","February 20, 2018",2017,PG-13,"Children & Family Movies, Dramas, International Movies",Children & Family Movies
+126,I Lost My Body,7.6,s2916,Movie,France,"November 29, 2019",2019,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+127,A Secret Love,7.9,s224,Movie,United States,"April 29, 2020",2020,TV-14,"Documentaries, LGBTQ Movies",Documentaries
+128,The Dark Crystal,7.2,s6267,Movie,"United States, United Kingdom","May 1, 2019",1982,PG,Children & Family Movies,Children & Family Movies
+129,Puss in Boots,6.6,s5013,Movie,United States,"September 1, 2020",2011,PG,"Children & Family Movies, Comedies",Children & Family Movies
+130,Bird Box,6.6,s935,Movie,United States,"December 21, 2018",2018,R,"Dramas, Sci-Fi & Fantasy, Thrillers",Dramas
+131,Quantum of Solace,6.6,s5029,Movie,"United Kingdom, United States","August 31, 2020",2008,PG-13,Action & Adventure,Action & Adventure
+132,Shot Caller,7.3,s5584,Movie,United States,"November 24, 2019",2017,R,"Dramas, Thrillers",Dramas
+133,War Horse,7.2,s7479,Movie,"United States, India","May 6, 2019",2011,PG-13,Dramas,Dramas
+134,Virunga,8.2,s7434,Movie,"United Kingdom,","November 7, 2014",2014,TV-MA,"Documentaries, International Movies",Documentaries
+135,Secret Superstar,7.9,s5465,Movie,India,"March 23, 2018",2017,TV-14,"Dramas, International Movies, Music & Musicals",Dramas
+136,The Other Guys,6.6,s6730,Movie,United States,"February 1, 2020",2010,PG-13,"Action & Adventure, Comedies",Action & Adventure
+137,Always Be My Maybe,6.8,s442,Movie,Philippines,"September 1, 2020",2016,TV-14,"International Movies, Romantic Movies",International Movies
+138,The Boy Who Harnessed the Wind,7.6,s6168,Movie,"United Kingdom, Malawi","March 1, 2019",2019,TV-PG,"Children & Family Movies, Dramas, Independent Movies",Children & Family Movies
+139,The Danish Girl,7.1,s6266,Movie,"United Kingdom, United States, Germany, Denmark, Belgium, Japan","December 16, 2019",2015,R,"Dramas, International Movies, LGBTQ Movies",Dramas
+140,Winter on Fire: Ukraine's Fight for Freedom,8.4,s7637,Movie,"United Kingdom, Ukraine, United States","October 9, 2015",2015,TV-MA,"Documentaries, International Movies",Documentaries
+141,The Foreigner,7.0,s6367,Movie,"United Kingdom, China, United States, India","February 14, 2020",2017,R,"Action & Adventure, International Movies",Action & Adventure
+142,Mirage,7.4,s4123,Movie,Spain,"March 22, 2019",2018,TV-MA,"Dramas, International Movies, Sci-Fi & Fantasy",Dramas
+143,The Fundamentals of Caring,7.3,s6379,Movie,United States,"June 24, 2016",2016,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+144,On Body and Soul,7.6,s4613,Movie,Hungary,"February 2, 2018",2017,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+145,Stree,7.6,s5841,Movie,India,"June 7, 2019",2018,TV-MA,"Comedies, Horror Movies, Independent Movies",Comedies
+146,Mr. Peabody & Sherman,6.8,s4254,Movie,United States,"August 11, 2020",2014,PG,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Children & Family Movies
+147,No Direction Home: Bob Dylan,8.5,s4485,Movie,"United Kingdom, United States, Japan","April 25, 2020",2005,TV-MA,"Documentaries, Music & Musicals",Documentaries
+148,A Ghost Story,6.9,s176,Movie,United States,"January 7, 2020",2017,R,"Dramas, Independent Movies",Dramas
+149,20th Century Women,7.3,s84,Movie,United States,"June 28, 2019",2016,R,"Dramas, Independent Movies",Dramas
+150,Kal Ho Naa Ho,8.0,s3291,Movie,India,"April 1, 2020",2003,TV-14,"Comedies, Dramas, International Movies",Comedies
+151,Trumbo,7.5,s7257,Movie,United States,"May 19, 2020",2015,R,"Dramas, Independent Movies",Dramas
+152,Hostiles,7.2,s2817,Movie,United States,"August 15, 2018",2017,R,Dramas,Dramas
+153,Swiss Army Man,7.0,s5943,Movie,"United States, Sweden","January 30, 2019",2016,R,"Comedies, Dramas, Independent Movies",Comedies
+154,The Secret Life of Pets 2,6.5,s6857,Movie,"United States, France, Japan","December 27, 2019",2019,PG,"Children & Family Movies, Comedies",Children & Family Movies
+155,Bill Burr: Paper Tiger,8.2,s917,Movie,"United States, United Kingdom","September 10, 2019",2019,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+156,Super Deluxe,8.4,s5891,Movie,India,"June 29, 2019",2019,TV-MA,"Comedies, Dramas, International Movies",Comedies
+157,Howards End,7.4,s2854,Movie,"United Kingdom, Japan, United States","March 16, 2017",1992,PG,"Classic Movies, Dramas, Independent Movies",Classic Movies
+158,Kapoor & Sons,7.7,s3304,Movie,India,"April 1, 2020",2016,TV-14,"Comedies, Dramas, International Movies",Comedies
+159,I Don't Feel at Home in This World Anymore,6.9,s2909,Movie,United States,"February 24, 2017",2017,TV-MA,"Dramas, Independent Movies, Thrillers",Dramas
+160,What Happened to Monday,6.9,s7551,Movie,"United Kingdom, France, United States, Belgium","August 18, 2017",2017,TV-MA,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+161,The Game Changers,7.9,s6384,Movie,United States,"October 16, 2019",2018,TV-MA,"Documentaries, Sports Movies",Documentaries
+162,Under the Shadow,6.9,s7337,Movie,"United Kingdom, Jordan, Qatar, Iran","January 7, 2017",2016,PG-13,"Horror Movies, International Movies, Thrillers",Horror Movies
+163,Scooby-Doo on Zombie Island,7.8,s5438,Movie,United States,"December 15, 2019",1998,TV-PG,Children & Family Movies,Children & Family Movies
+164,Kon-Tiki,7.2,s3438,Movie,"United Kingdom, Norway, Denmark, Germany, Sweden","April 26, 2019",2012,PG-13,"Action & Adventure, Dramas, International Movies",Action & Adventure
+165,The Endless,6.5,s6333,Movie,United States,"September 19, 2018",2017,TV-MA,"Independent Movies, Sci-Fi & Fantasy, Thrillers",Independent Movies
+166,Indiana Jones and the Kingdom of the Crystal Skull,6.1,s2991,Movie,United States,"January 1, 2019",2008,PG-13,"Action & Adventure, Children & Family Movies, Sci-Fi & Fantasy",Action & Adventure
+167,Mary Poppins Returns,6.7,s3974,Movie,"United States, United Kingdom","July 9, 2019",2018,PG,"Children & Family Movies, Music & Musicals",Children & Family Movies
+168,The One I Love,7.1,s6723,Movie,United States,"May 30, 2019",2014,R,"Comedies, Dramas, Independent Movies",Comedies
+169,Aquarius,7.5,s566,TV Show,United States,"June 16, 2017",2016,TV-MA,"Crime TV Shows, TV Dramas",Crime TV Shows
+170,Wildlife,6.8,s7625,Movie,United States,"September 1, 2020",2018,PG-13,"Dramas, Independent Movies",Dramas
+171,Legend,6.9,s3570,Movie,"United Kingdom, France, United States","January 16, 2020",2015,R,"Dramas, International Movies, Thrillers",Dramas
+172,Guru,7.7,s2559,Movie,India,"March 1, 2018",2007,TV-PG,"Dramas, International Movies",Dramas
+173,Angel Has Fallen,6.4,s519,Movie,United States,"April 4, 2020",2019,R,Action & Adventure,Action & Adventure
+174,Ocean's Twelve,6.5,s4566,Movie,United States,"October 1, 2019",2004,PG-13,"Action & Adventure, Comedies",Action & Adventure
+175,Wadjda,7.5,s7457,Movie,"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States","May 19, 2020",2012,PG,"Dramas, International Movies, Sports Movies",Dramas
+176,Defiance,7.2,s1686,Movie,United States,"November 27, 2019",2008,R,"Action & Adventure, Dramas",Action & Adventure
+177,The Perfection,6.1,s6752,Movie,United States,"May 24, 2019",2019,TV-MA,"Horror Movies, LGBTQ Movies, Music & Musicals",Horror Movies
+178,The Night Comes for Us,7.0,s6710,Movie,"Indonesia, United States","October 19, 2018",2018,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+179,The Young Offenders,7.1,s7029,Movie,Ireland,"March 9, 2017",2016,TV-MA,"Comedies, International Movies",Comedies
+180,Eurovision Song Contest: The Story of Fire Saga,6.5,s2037,Movie,United States,"June 26, 2020",2020,PG-13,"Comedies, Music & Musicals, Romantic Movies",Comedies
+181,Krisha,7.2,s3453,Movie,United States,"November 7, 2018",2015,R,"Dramas, Independent Movies",Dramas
+182,Basic Instinct,7.0,s759,Movie,"United States, France","October 1, 2020",1992,R,"Classic Movies, Thrillers",Classic Movies
+183,Dave Chappelle: Sticks & Stones,8.5,s1632,Movie,United States,"August 26, 2019",2019,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+184,American Factory,7.4,s463,Movie,United States,"August 21, 2019",2019,TV-14,Documentaries,Documentaries
+185,Ip Man 3,7.1,s3050,Movie,"China, Hong Kong","June 18, 2016",2015,PG-13,"Action & Adventure, Dramas, International Movies",Action & Adventure
+186,A Whisker Away,6.7,s254,Movie,Japan,"June 18, 2020",2020,TV-PG,"Anime Features, Children & Family Movies, International Movies",Anime Features
+187,"Waiting for ""Superman""",7.5,s7460,Movie,United States,"September 7, 2020",2010,PG,Documentaries,Documentaries
+188,Happy as Lazzaro,7.6,s2610,Movie,"Italy, Switzerland, France, Germany","November 30, 2018",2018,PG-13,"Dramas, Independent Movies, International Movies",Dramas
+189,Suburra,7.4,s5867,Movie,"Italy, France","October 14, 2015",2015,NR,"Dramas, International Movies, Thrillers",Dramas
+190,Madagascar: Escape 2 Africa,6.6,s3844,Movie,United States,"May 1, 2020",2008,PG,"Children & Family Movies, Comedies",Children & Family Movies
+191,The Hundred-Foot Journey,7.3,s6473,Movie,"United States, India, United Arab Emirates","January 31, 2019",2014,PG,"Comedies, Dramas",Comedies
+192,"What Happened, Miss Simone?",7.6,s7553,Movie,United States,"June 26, 2015",2015,TV-14,"Documentaries, Music & Musicals",Documentaries
+193,The Distinguished Citizen,7.5,s6307,Movie,"Argentina, Spain","September 1, 2017",2016,TV-MA,"Comedies, Dramas, International Movies",Comedies
+194,The Babysitter,6.3,s6103,Movie,United States,"October 13, 2017",2017,TV-MA,"Comedies, Horror Movies",Comedies
+195,The Fear of 13,7.6,s6346,Movie,United Kingdom,"June 1, 2016",2015,TV-MA,"Documentaries, International Movies",Documentaries
+196,Adrift,6.6,s315,Movie,"Hong Kong, Iceland, United States","September 1, 2020",2018,PG-13,"Action & Adventure, Dramas, Romantic Movies",Action & Adventure
+197,The Meyerowitz Stories (New and Selected),6.9,s6663,Movie,United States,"October 13, 2017",2017,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+198,Mirai,7.0,s4124,Movie,Japan,"June 1, 2020",2018,PG,"Action & Adventure, Anime Features, Children & Family Movies",Action & Adventure
+199,9,7.1,s4,Movie,United States,"November 16, 2017",2009,PG-13,"Action & Adventure, Independent Movies, Sci-Fi & Fantasy",Action & Adventure
+200,Palm Trees in the Snow,7.4,s4749,Movie,Spain,"May 1, 2016",2015,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+201,The Death of Mr. Lazarescu,7.9,s6280,Movie,Romania,"March 4, 2020",2005,R,"Dramas, International Movies",Dramas
+202,Creep,6.3,s1531,Movie,United States,"July 14, 2015",2014,R,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+203,My Week with Marilyn,6.9,s4367,Movie,"United Kingdom, United States","May 30, 2019",2011,R,"Dramas, Romantic Movies",Dramas
+204,The Promise,6.4,s6787,Movie,"Spain, United States","August 9, 2020",2016,PG-13,Dramas,Dramas
+205,Blood Father,6.4,s987,Movie,France,"March 26, 2020",2016,R,"Action & Adventure, International Movies",Action & Adventure
+206,Creep 2,6.4,s1532,Movie,United States,"December 23, 2017",2017,TV-MA,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+207,The Highwaymen,6.9,s6452,Movie,United States,"March 29, 2019",2019,R,Dramas,Dramas
+208,Chasing Coral,8.1,s1291,Movie,United States,"July 14, 2017",2017,TV-PG,Documentaries,Documentaries
+209,1922,6.3,s11,Movie,United States,"October 20, 2017",2017,TV-MA,"Dramas, Thrillers",Dramas
+210,The Wolf's Call,6.9,s7010,Movie,France,"June 20, 2019",2019,TV-14,"Dramas, International Movies, Thrillers",Dramas
+211,American Honey,7.0,s468,Movie,"United Kingdom, United States","April 27, 2019",2016,R,"Dramas, Independent Movies",Dramas
+212,Private Life,7.2,s4979,Movie,United States,"October 5, 2018",2018,R,"Comedies, Dramas, Independent Movies",Comedies
+213,Rush: Beyond the Lighted Stage,8.4,s5309,Movie,Canada,"February 15, 2017",2010,TV-MA,"Documentaries, Music & Musicals",Documentaries
+214,Dumplin',6.6,s1895,Movie,United States,"December 7, 2018",2018,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+215,The White Helmets,7.5,s6998,Movie,United Kingdom,"September 16, 2016",2016,TV-PG,Documentaries,Documentaries
+216,A Shaun the Sheep Movie: Farmageddon,6.9,s228,Movie,"United Kingdom, France, Belgium, United States, China","February 14, 2020",2020,G,"Children & Family Movies, Comedies",Children & Family Movies
+217,The Ritual,6.3,s6827,Movie,"United Kingdom, Canada","February 9, 2018",2018,TV-MA,"Horror Movies, International Movies, Thrillers",Horror Movies
+218,The Pixar Story,7.8,s6762,Movie,United States,"November 18, 2018",2007,G,Documentaries,Documentaries
+219,Superman Returns,6.0,s5911,Movie,United States,"October 1, 2019",2006,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+220,For the Love of Spock,7.6,s2230,Movie,"Canada, United States","December 2, 2016",2016,TV-14,Documentaries,Documentaries
+221,Olympus Has Fallen,6.5,s4608,Movie,United States,"May 2, 2019",2013,R,Action & Adventure,Action & Adventure
+222,Veronica,6.2,s7406,Movie,Spain,"February 25, 2018",2017,TV-MA,"Horror Movies, International Movies, Thrillers",Horror Movies
+223,Veronica,5.8,s7406,Movie,Spain,"February 25, 2018",2017,TV-MA,"Horror Movies, International Movies, Thrillers",Horror Movies
+224,The Angry Birds Movie 2,6.4,s6085,Movie,"Finland, United States","February 27, 2020",2019,PG,"Children & Family Movies, Comedies",Children & Family Movies
+225,Cargo,6.3,s1218,Movie,India,"September 9, 2020",2020,TV-14,"Comedies, Dramas, Independent Movies",Comedies
+226,Delhi Belly,7.6,s1691,Movie,India,"January 10, 2021",2011,TV-MA,"Action & Adventure, Comedies, International Movies",Action & Adventure
+227,22-Jul,6.8,s18,Movie,"Norway, Iceland, United States","October 10, 2018",2018,R,"Dramas, Thrillers",Dramas
+228,The Spiderwick Chronicles,6.5,s6893,Movie,United States,"March 1, 2019",2008,PG,Children & Family Movies,Children & Family Movies
+229,Tell Me Who I Am,7.6,s6018,Movie,United Kingdom,"October 18, 2019",2019,TV-MA,Documentaries,Documentaries
+230,Louis C.K. 2017,7.6,s3737,Movie,United States,"April 4, 2017",2017,,Movies,Movies
+231,Blue Jay,7.3,s999,Movie,United States,"December 6, 2016",2016,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+232,The Boys in the Band,6.8,s6169,Movie,United States,"September 30, 2020",2020,R,"Dramas, LGBTQ Movies",Dramas
+233,Richard Pryor: Live in Concert,8.2,s5201,Movie,United States,"December 1, 2016",1979,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+234,The Sky Is Pink,7.5,s6879,Movie,"India, United Kingdom, Canada, United States","December 11, 2019",2019,TV-MA,"Dramas, International Movies",Dramas
+235,Udta Punjab,7.8,s7298,Movie,India,"January 1, 2017",2016,TV-MA,"Dramas, International Movies",Dramas
+236,Bulbbul,6.6,s1133,Movie,India,"June 24, 2020",2020,TV-MA,"Horror Movies, International Movies",Horror Movies
+237,The Christmas Chronicles,7.1,s6219,Movie,United States,"November 22, 2018",2018,TV-PG,"Children & Family Movies, Comedies",Children & Family Movies
+238,It Comes at Night,6.2,s3074,Movie,United States,"December 9, 2019",2017,R,"Horror Movies, Independent Movies",Horror Movies
+239,Ittefaq,7.2,s3085,Movie,India,"April 3, 2018",2017,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+240,"Extremely Wicked, Shockingly Evil and Vile",6.6,s2076,Movie,United States,"May 3, 2019",2019,R,"Dramas, Independent Movies",Dramas
+241,Undefeated,7.7,s7330,Movie,United States,"August 18, 2017",2011,PG-13,"Documentaries, Sports Movies",Documentaries
+242,Unrest,7.7,s7358,Movie,"United Kingdom, United States","January 15, 2018",2017,TV-14,Documentaries,Documentaries
+243,Us and Them,7.3,s7376,Movie,China,"June 22, 2018",2018,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+244,Da 5 Bloods,6.5,s1570,Movie,United States,"June 12, 2020",2020,R,"Action & Adventure, Dramas",Action & Adventure
+245,Triple Frontier,6.4,s7229,Movie,United States,"March 13, 2019",2019,R,Action & Adventure,Action & Adventure
+246,Bright,6.3,s1103,Movie,United States,"December 22, 2017",2017,TV-MA,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+247,Sour Grapes,7.2,s5731,Movie,United Kingdom,"November 18, 2016",2016,NR,Documentaries,Documentaries
+248,"Hail, Caesar!",6.3,s2578,Movie,"United States, United Kingdom, Japan","April 16, 2020",2016,PG-13,Comedies,Comedies
+249,The Edge of Democracy,7.1,s6324,Movie,Brazil,"June 19, 2019",2019,TV-14,"Documentaries, International Movies",Documentaries
+250,Hey Arnold! The Jungle Movie,7.6,s2714,Movie,"United States, South Korea, Japan","November 2, 2019",2017,TV-PG,"Children & Family Movies, Comedies",Children & Family Movies
+251,Calibre,6.8,s1173,Movie,United Kingdom,"June 29, 2018",2018,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+252,Raising Victor Vargas,7.2,s5077,Movie,"France, United States","September 15, 2020",2002,R,"Dramas, Independent Movies, Romantic Movies",Dramas
+253,Kill the Messenger,6.9,s3384,Movie,United States,"December 16, 2018",2014,R,"Dramas, Thrillers",Dramas
+254,The Resistance Banker,6.9,s6817,Movie,Netherlands,"September 11, 2018",2018,TV-MA,"Dramas, International Movies",Dramas
+255,Last Breath,7.7,s3538,Movie,"United Kingdom, Belgium, Sweden","May 6, 2019",2019,TV-MA,"Documentaries, International Movies",Documentaries
+256,The Interview,7.1,s6500,Movie,Australia,"November 1, 2016",1998,NR,"Cult Movies, Dramas, Thrillers",Cult Movies
+257,The Interview,6.5,s6500,Movie,Australia,"November 1, 2016",1998,NR,"Cult Movies, Dramas, Thrillers",Cult Movies
+258,Crip Camp: A Disability Revolution,7.8,s1543,Movie,United States,"March 25, 2020",2020,R,Documentaries,Documentaries
+259,Team Foxcatcher,7.3,s6003,Movie,United States,"April 29, 2016",2016,TV-MA,"Documentaries, Sports Movies",Documentaries
+260,Williams,7.6,s7627,Movie,United Kingdom,"November 4, 2017",2017,TV-MA,"Documentaries, International Movies, Sports Movies",Documentaries
+261,Being Elmo: A Puppeteer's Journey,7.6,s819,Movie,United States,"February 21, 2012",2011,PG,Documentaries,Documentaries
+262,The Battered Bastards of Baseball,8.0,s6117,Movie,United States,"July 11, 2014",2014,TV-MA,"Documentaries, Sports Movies",Documentaries
+263,Paddleton,7.2,s4736,Movie,United States,"February 22, 2019",2019,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+264,Mary and the Witch's Flower,6.8,s3972,Movie,Japan,"July 17, 2018",2017,PG,"Anime Features, Children & Family Movies",Anime Features
+265,Andhadhun,8.3,s509,Movie,India,"December 16, 2018",2018,TV-14,"Comedies, Dramas, International Movies",Comedies
+266,Girl,7.1,s2421,Movie,"Netherlands, Belgium","March 15, 2019",2018,R,"Dramas, International Movies, LGBTQ Movies",Dramas
+267,Project Power,6.0,s4988,Movie,United States,"August 14, 2020",2020,R,Action & Adventure,Action & Adventure
+268,Super Dark Times,6.6,s5890,Movie,United States,"January 1, 2018",2017,TV-MA,"Dramas, Independent Movies, Thrillers",Dramas
+269,The American Meme,7.1,s6080,Movie,United States,"December 7, 2018",2018,TV-MA,Documentaries,Documentaries
+270,The Hater,7.1,s6437,Movie,Poland,"July 29, 2020",2020,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+271,Dear Ex,7.3,s1664,Movie,Taiwan,"February 1, 2019",2018,TV-MA,"Comedies, Dramas, International Movies",Comedies
+272,Even the Rain,7.4,s2042,Movie,"Spain, Mexico, France","May 17, 2011",2010,TV-MA,"Dramas, International Movies",Dramas
+273,Outlaw King,6.9,s4708,Movie,"United Kingdom, United States","November 9, 2018",2018,R,"Action & Adventure, Dramas",Action & Adventure
+274,Circus of Books,7.0,s1396,Movie,United States,"April 22, 2020",2020,TV-MA,"Documentaries, LGBTQ Movies",Documentaries
+275,Den of Thieves,7.0,s1702,Movie,United States,"May 1, 2020",2018,R,Action & Adventure,Action & Adventure
+276,Jodhaa Akbar,7.6,s3196,Movie,India,"October 1, 2018",2008,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+277,Big Daddy,6.4,s902,Movie,United States,"October 1, 2020",1999,PG-13,Comedies,Comedies
+278,Heneral Luna,7.6,s2699,Movie,Philippines,"October 31, 2018",2015,R,"Dramas, International Movies",Dramas
+279,De Palma,7.4,s1650,Movie,United States,"November 21, 2018",2015,R,Documentaries,Documentaries
+280,Cairo Station,7.7,s1170,Movie,Egypt,"June 18, 2020",1958,TV-14,"Classic Movies, Dramas, International Movies",Classic Movies
+281,First They Killed My Father,7.2,s2188,Movie,"Cambodia, United States","September 15, 2017",2017,TV-MA,Dramas,Dramas
+282,Hulk Vs.,7.0,s2859,Movie,United States,"June 1, 2020",2009,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+283,Christine,6.9,s1362,Movie,"United Kingdom, United States","August 13, 2020",2016,R,"Dramas, Independent Movies",Dramas
+284,How the Grinch Stole Christmas,6.2,s2840,Movie,United States,"June 1, 2017",2000,PG,"Children & Family Movies, Comedies",Children & Family Movies
+285,Suffragette,6.9,s5872,Movie,"United Kingdom, France","November 16, 2019",2015,PG-13,"Dramas, International Movies",Dramas
+286,Operation Odessa,7.8,s4671,Movie,,"April 1, 2020",2018,TV-MA,Documentaries,Documentaries
+287,Holding the Man,7.4,s2769,Movie,Australia,"August 1, 2016",2015,TV-MA,"Dramas, International Movies, LGBTQ Movies",Dramas
+288,Hannah Gadsby: Douglas,7.8,s2599,Movie,Australia,"May 26, 2020",2020,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+289,Cuba and the Cameraman,8.3,s1549,Movie,United States,"November 24, 2017",2017,TV-14,Documentaries,Documentaries
+290,Waiting...,6.8,s7461,Movie,United States,"September 23, 2020",2005,R,"Comedies, Independent Movies",Comedies
+291,The Little Hours,5.8,s6600,Movie,"Canada, United States","December 23, 2018",2017,R,"Comedies, Independent Movies",Comedies
+292,Alex Strangelove,6.3,s380,Movie,United States,"June 8, 2018",2018,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+293,Bobby Robson: More Than a Manager,8.2,s1020,Movie,United Kingdom,"December 1, 2018",2018,TV-14,"Documentaries, International Movies, Sports Movies",Documentaries
+294,The Sapphires,7.0,s6849,Movie,Australia,"April 26, 2019",2012,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+295,The Siege of Jadotville,7.2,s6868,Movie,"Ireland, South Africa","October 7, 2016",2016,TV-MA,"Action & Adventure, Dramas, International Movies",Action & Adventure
+296,Free State of Jones,6.9,s2275,Movie,United States,"October 1, 2020",2016,R,"Action & Adventure, Dramas",Action & Adventure
+297,Handsome Devil,7.1,s2593,Movie,Ireland,"August 1, 2017",2016,TV-MA,"Comedies, Dramas, International Movies",Comedies
+298,The Speed Cubers,7.4,s6892,Movie,United States,"July 29, 2020",2020,TV-PG,Documentaries,Documentaries
+299,Kai Po Che!,7.7,s3288,Movie,India,"November 1, 2018",2013,TV-MA,"Dramas, International Movies, Sports Movies",Dramas
+300,Hold the Dark,5.6,s2768,Movie,United States,"September 28, 2018",2018,TV-MA,"Action & Adventure, Dramas",Action & Adventure
+301,The Willoughbys,6.4,s7001,Movie,"Canada, United States, United Kingdom","April 22, 2020",2020,PG,"Children & Family Movies, Comedies",Children & Family Movies
+302,One Day,7.0,s4639,Movie,Thailand,"September 5, 2018",2016,TV-PG,"Dramas, International Movies, Romantic Movies",Dramas
+303,Tomorrow Never Dies,6.5,s7143,Movie,"United Kingdom, United States","December 31, 2019",1997,PG-13,Action & Adventure,Action & Adventure
+304,Cam,5.9,s1184,Movie,United States,"November 16, 2018",2018,TV-MA,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+305,Hannah Gadsby: Nanette,8.3,s2600,Movie,Australia,"June 19, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+306,Tallulah,6.7,s5977,Movie,United States,"July 29, 2016",2016,TV-MA,"Dramas, Independent Movies",Dramas
+307,Ricky Gervais: Humanity,7.9,s5203,Movie,United Kingdom,"March 13, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+308,All Together Now,6.5,s423,Movie,United States,"August 29, 2020",2020,PG,Dramas,Dramas
+309,East Side Sushi,7.1,s1910,Movie,United States,"September 15, 2020",2015,PG,Dramas,Dramas
+310,The Grandmaster,6.6,s6414,Movie,"Hong Kong, China","September 26, 2019",2013,PG-13,"Action & Adventure, Dramas, International Movies",Action & Adventure
+311,The Devil We Know,7.7,s6298,Movie,United States,"January 15, 2019",2018,TV-14,Documentaries,Documentaries
+312,Spectral,6.3,s5746,Movie,"United States, Hungary","December 9, 2016",2016,TV-14,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+313,Ali Wong: Hard Knock Wife,7.4,s388,Movie,United States,"May 13, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+314,Pick of the Litter,7.6,s4853,Movie,United States,"August 2, 2020",2018,TV-PG,"Children & Family Movies, Documentaries",Children & Family Movies
+315,Get Me Roger Stone,7.4,s2385,Movie,United States,"May 12, 2017",2017,TV-MA,Documentaries,Documentaries
+316,6 Underground,6.1,s128,Movie,United States,"December 13, 2019",2019,R,"Action & Adventure, Dramas",Action & Adventure
+317,Black '47,6.8,s946,Movie,"Ireland, Luxembourg, Belgium","October 24, 2020",2018,R,"Action & Adventure, Dramas, Independent Movies",Action & Adventure
+318,Badla,7.8,s701,Movie,India,"August 7, 2019",2019,TV-14,"International Movies, Thrillers",International Movies
+319,Before I Fall,6.5,s807,Movie,United States,"June 8, 2020",2017,PG-13,"Dramas, Romantic Movies",Dramas
+320,Bleed for This,6.8,s977,Movie,United States,"April 11, 2020",2016,R,"Dramas, Sports Movies",Dramas
+321,The Kindergarten Teacher,6.7,s6529,Movie,"United States, Israel, United Kingdom, Canada","October 12, 2018",2018,R,"Dramas, Independent Movies",Dramas
+322,Period. End of Sentence.,7.4,s4831,Movie,United States,"February 12, 2019",2018,TV-PG,Documentaries,Documentaries
+323,Other People,6.8,s4688,Movie,United States,"December 8, 2016",2016,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+324,The Dirt,7.0,s6301,Movie,United States,"March 22, 2019",2019,TV-MA,"Comedies, Dramas, Music & Musicals",Comedies
+325,Kill the Irishman,7.1,s3383,Movie,United States,"August 21, 2020",2011,R,"Action & Adventure, Dramas, Independent Movies",Action & Adventure
+326,Remember Me,7.1,s5159,Movie,United States,"August 1, 2020",2010,PG-13,"Dramas, Romantic Movies",Dramas
+327,Apostle,6.3,s564,Movie,"United Kingdom, United States","October 12, 2018",2018,TV-MA,"Horror Movies, International Movies, Thrillers",Horror Movies
+328,Tom Segura: Disgraceful,7.6,s7140,Movie,United States,"January 12, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+329,Next Gen,6.6,s4459,Movie,"China, Canada, United States","September 7, 2018",2018,TV-PG,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Children & Family Movies
+330,He Never Died,6.4,s2668,Movie,Canada,"March 18, 2016",2015,R,"Comedies, Horror Movies",Comedies
+331,Okko's Inn,7.0,s4600,Movie,Japan,"June 12, 2020",2018,PG,"Anime Features, Children & Family Movies",Anime Features
+332,My Happy Family,7.4,s4322,Movie,"Georgia, Germany, France","December 1, 2017",2017,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+333,Muppets Most Wanted,6.4,s4284,Movie,United States,"September 1, 2020",2014,PG,"Children & Family Movies, Comedies",Children & Family Movies
+334,Tinker Bell and the Legend of the NeverBeast,7.2,s7104,Movie,United States,"May 17, 2015",2014,G,Children & Family Movies,Children & Family Movies
+335,Dear Zindagi,7.6,s1668,Movie,India,"April 25, 2017",2016,TV-14,"Comedies, Dramas, International Movies",Comedies
+336,Om Shanti Om,6.7,s4609,Movie,India,"April 1, 2018",2007,TV-14,"Comedies, Dramas, International Movies",Comedies
+337,Work It,6.1,s7663,Movie,United States,"August 7, 2020",2020,TV-14,Comedies,Comedies
+338,Mune: Guardian of the Moon,7.2,s4283,Movie,France,"January 26, 2018",2014,PG,Children & Family Movies,Children & Family Movies
+339,Into the Inferno,7.2,s3033,Movie,"United Kingdom, Germany, Canada","October 28, 2016",2016,TV-PG,Documentaries,Documentaries
+340,While We're Young,6.3,s7590,Movie,United States,"October 23, 2017",2015,R,"Comedies, Dramas, Independent Movies",Comedies
+341,Gaga: Five Foot Two,7.0,s2336,Movie,United States,"September 22, 2017",2017,TV-MA,"Documentaries, Music & Musicals",Documentaries
+342,The Longest Yard,7.1,s6614,Movie,United States,"November 20, 2019",1974,R,"Classic Movies, Comedies, Sports Movies",Classic Movies
+343,Talaash,7.2,s5969,Movie,India,"December 15, 2019",2012,TV-14,"Dramas, International Movies, Thrillers",Dramas
+344,The Frozen Ground,6.4,s6378,Movie,United States,"August 27, 2020",2013,R,"Dramas, Thrillers",Dramas
+345,Echo in the Canyon,6.9,s1917,Movie,United States,"October 24, 2019",2019,PG-13,"Documentaries, Music & Musicals",Documentaries
+346,The Exception,6.8,s6339,Movie,"United Kingdom, United States","July 26, 2019",2016,R,"Dramas, Romantic Movies",Dramas
+347,Killer Klowns from Outer Space,6.2,s3388,Movie,United States,"April 1, 2020",1988,PG-13,"Comedies, Cult Movies, Horror Movies",Comedies
+348,Everybody Knows,6.9,s2047,Movie,"Spain, France, Italy","June 6, 2019",2019,R,"Dramas, International Movies, Thrillers",Dramas
+349,Hardcore Henry,6.7,s2625,Movie,"Russia, United States, China","August 1, 2020",2015,R,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Action & Adventure
+350,The Accountant of Auschwitz,7.3,s6062,Movie,Canada,"July 1, 2019",2018,TV-14,"Documentaries, International Movies",Documentaries
+351,The World Is Not Enough,6.4,s7016,Movie,"United Kingdom, United States","December 31, 2019",1999,PG-13,Action & Adventure,Action & Adventure
+352,Mike Birbiglia: The New One,7.7,s4093,Movie,United States,"November 26, 2019",2019,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+353,Filmworker,7.4,s2162,Movie,United States,"November 1, 2018",2017,TV-MA,Documentaries,Documentaries
+354,Divines,7.4,s1786,Movie,"France, Qatar","November 18, 2016",2016,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+355,Killing Them Softly,6.2,s3393,Movie,United States,"March 30, 2020",2012,R,Dramas,Dramas
+356,Soul Surfer,7.0,s5728,Movie,United States,"May 17, 2020",2011,PG,"Dramas, Faith & Spirituality, Sports Movies",Dramas
+357,She's Gotta Have It,6.7,s5557,TV Show,United States,"May 24, 2019",2018,TV-MA,"Romantic TV Shows, TV Comedies, TV Dramas",Romantic TV Shows
+358,Greater,7.3,s2528,Movie,United States,"March 31, 2020",2016,PG,"Children & Family Movies, Dramas, Sports Movies",Children & Family Movies
+359,The Babysitter: Killer Queen,5.8,s6104,Movie,United States,"September 10, 2020",2020,TV-MA,"Comedies, Horror Movies",Comedies
+360,Shirkers,7.4,s5570,Movie,"United States, United Kingdom","October 26, 2018",2018,TV-14,Documentaries,Documentaries
+361,Fractured,6.4,s2254,Movie,United States,"October 11, 2019",2019,TV-MA,Thrillers,Thrillers
+362,We Have Always Lived in the Castle,5.6,s7507,Movie,United States,"October 1, 2020",2018,TV-14,"Dramas, Thrillers",Dramas
+363,Jerry Before Seinfeld,7.0,s3154,Movie,United States,"September 19, 2017",2017,TV-14,Stand-Up Comedy,Stand-Up Comedy
+364,Raees,6.8,s5061,Movie,India,"May 26, 2017",2017,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+365,Whisky,7.0,s7593,Movie,"Uruguay, Argentina, Germany, Spain","January 22, 2020",2004,TV-MA,"Comedies, Dramas, International Movies",Comedies
+366,Quincy,7.6,s5044,Movie,United States,"September 21, 2018",2018,TV-MA,"Documentaries, Music & Musicals",Documentaries
+367,Just Friends,6.2,s3250,Movie,"Germany, United States, Canada","September 1, 2019",2005,PG-13,"Comedies, Romantic Movies",Comedies
+368,Berlin Syndrome,6.3,s841,Movie,Australia,"August 25, 2017",2017,R,"International Movies, Thrillers",International Movies
+369,Bleach,6.4,s974,TV Show,Japan,"April 21, 2020",2006,TV-14,"Anime Series, International TV Shows",Anime Series
+370,The 24 Hour War,7.2,s6052,Movie,United States,"November 15, 2019",2016,TV-MA,"Documentaries, Sports Movies",Documentaries
+371,Wheelman,6.4,s7576,Movie,United States,"October 20, 2017",2017,TV-MA,Action & Adventure,Action & Adventure
+372,Qarib Qarib Singlle,7.1,s5021,Movie,India,"August 28, 2018",2017,TV-14,"Comedies, International Movies, Romantic Movies",Comedies
+373,Black Sea,6.4,s962,Movie,"United Kingdom, Russia, United States","February 16, 2019",2015,R,"Action & Adventure, Dramas, International Movies",Action & Adventure
+374,Our Souls at Night,6.9,s4700,Movie,United States,"September 29, 2017",2017,TV-14,"Dramas, Romantic Movies",Dramas
+375,Spenser Confidential,6.2,s5751,Movie,United States,"March 6, 2020",2020,R,"Action & Adventure, Comedies",Action & Adventure
+376,After,5.3,s324,Movie,United States,"October 9, 2019",2019,PG-13,"Dramas, Romantic Movies",Dramas
+377,Free Fire,6.4,s2271,Movie,United Kingdom,"October 21, 2019",2016,R,"Action & Adventure, Comedies, Independent Movies",Action & Adventure
+378,Retribution,6.6,s5176,TV Show,United Kingdom,"January 30, 2018",2016,TV-MA,"British TV Shows, Crime TV Shows, International TV Shows",British TV Shows
+379,Bee Movie,6.1,s804,Movie,"United States, Australia","January 1, 2017",2007,PG,"Children & Family Movies, Comedies",Children & Family Movies
+380,Nothing to Hide,6.8,s4518,Movie,"France, Belgium","November 16, 2018",2018,TV-MA,"Comedies, Dramas, International Movies",Comedies
+381,Sex Drive,6.5,s5524,Movie,United States,"September 1, 2020",2008,R,Comedies,Comedies
+382,Petta,7.2,s4839,Movie,India,"April 5, 2019",2019,TV-14,"Action & Adventure, Comedies, Dramas",Action & Adventure
+383,1BR,5.8,s76,Movie,United States,"August 23, 2020",2019,TV-MA,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+384,We the Animals,6.9,s7511,Movie,United States,"February 11, 2019",2018,R,"Dramas, Independent Movies",Dramas
+385,The Runaways,6.5,s6842,Movie,United States,"April 1, 2020",2010,R,"Dramas, Independent Movies, Music & Musicals",Dramas
+386,Abducted in Plain Sight,6.8,s282,Movie,United States,"January 15, 2019",2017,TV-14,Documentaries,Documentaries
+387,Kevin Hart: Laugh at My Pain,7.4,s3344,Movie,United States,"October 1, 2018",2011,R,Stand-Up Comedy,Stand-Up Comedy
+388,Miles Davis: Birth of the Cool,7.4,s4100,Movie,United States,"March 6, 2020",2019,TV-MA,"Documentaries, Music & Musicals",Documentaries
+389,Audrie & Daisy,7.2,s621,Movie,United States,"September 23, 2016",2016,TV-MA,Documentaries,Documentaries
+390,Chappaquiddick,6.4,s1276,Movie,"United States, Sweden","October 1, 2018",2017,PG-13,Dramas,Dramas
+391,The Wandering Earth,6.0,s6986,Movie,China,"May 6, 2019",2019,TV-MA,"International Movies, Sci-Fi & Fantasy",International Movies
+392,The Lovebirds,6.1,s6624,Movie,United States,"May 22, 2020",2020,R,"Action & Adventure, Comedies, Romantic Movies",Action & Adventure
+393,Haywire,5.8,s2663,Movie,"Ireland, United States","March 1, 2020",2011,R,Action & Adventure,Action & Adventure
+394,Avengement,6.5,s635,Movie,United Kingdom,"September 17, 2019",2019,TV-MA,Action & Adventure,Action & Adventure
+395,Burlesque,6.4,s1142,Movie,United States,"December 16, 2019",2010,PG-13,"Dramas, Romantic Movies",Dramas
+396,Kuch Kuch Hota Hai,7.6,s3461,Movie,India,"April 1, 2020",1998,TV-14,"Comedies, Dramas, International Movies",Comedies
+397,Sweetheart,5.8,s5941,Movie,United States,"December 25, 2019",2019,PG-13,"Horror Movies, Sci-Fi & Fantasy, Thrillers",Horror Movies
+398,Before I Wake,6.2,s808,Movie,United States,"January 5, 2018",2016,PG-13,"Horror Movies, Thrillers",Horror Movies
+399,Newness,6.4,s4455,Movie,United States,"February 1, 2018",2017,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+400,Asoka,6.5,s600,Movie,India,"March 15, 2017",2001,R,"Action & Adventure, Dramas, International Movies",Action & Adventure
+401,Kicking and Screaming,6.8,s3368,Movie,United States,"November 4, 2019",1995,R,"Comedies, Independent Movies, Romantic Movies",Comedies
+402,Lost Bullet,6.2,s3730,Movie,France,"June 19, 2020",2020,TV-MA,"Action & Adventure, Dramas, International Movies",Action & Adventure
+403,Don 2,7.1,s1809,Movie,"India, Germany","December 15, 2019",2011,TV-14,"Action & Adventure, International Movies, Music & Musicals",Action & Adventure
+404,All Dogs Go to Heaven,6.8,s409,Movie,"Ireland, United Kingdom, United States","June 1, 2020",1989,G,Children & Family Movies,Children & Family Movies
+405,Ali's Wedding,6.9,s389,Movie,Australia,"June 8, 2018",2018,TV-MA,"Comedies, Independent Movies, International Movies",Comedies
+406,Hasee Toh Phasee,6.8,s2643,Movie,India,"April 1, 2020",2014,TV-14,"Comedies, Dramas, International Movies",Comedies
+407,Little Evil,5.7,s3660,Movie,United States,"September 1, 2017",2017,TV-MA,"Comedies, Horror Movies",Comedies
+408,37 Seconds,7.3,s108,Movie,Japan,"January 31, 2020",2020,TV-MA,"Dramas, International Movies",Dramas
+409,Quartet,6.8,s5030,Movie,United Kingdom,"May 11, 2020",2012,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+410,Mom,7.3,s4170,Movie,India,"August 21, 2018",2017,TV-14,"Dramas, International Movies, Thrillers",Dramas
+411,Blaze,6.6,s972,Movie,United States,"August 30, 2020",2018,R,"Dramas, Independent Movies, Music & Musicals",Dramas
+412,Big Miracle,6.5,s906,Movie,"United States, United Kingdom","September 30, 2018",2012,PG,"Children & Family Movies, Dramas",Children & Family Movies
+413,Harold and Lillian: A Hollywood Love Story,8.0,s2633,Movie,United States,"November 25, 2018",2015,TV-14,Documentaries,Documentaries
+414,Bathtubs Over Broadway,7.5,s764,Movie,United States,"May 9, 2019",2018,PG-13,"Documentaries, Music & Musicals",Documentaries
+415,Studio 54,7.0,s5861,Movie,United States,"February 16, 2019",2018,TV-MA,Documentaries,Documentaries
+416,American Assassin,6.2,s455,Movie,United States,"January 31, 2020",2017,R,Action & Adventure,Action & Adventure
+417,Let It Fall: Los Angeles 1982-1992,7.8,s3607,Movie,United States,"November 6, 2017",2017,TV-MA,Documentaries,Documentaries
+418,Mission Control: The Unsung Heroes of Apollo,7.6,s4149,Movie,"United States, United Kingdom","August 13, 2017",2017,TV-14,Documentaries,Documentaries
+419,From Paris with Love,6.5,s2296,Movie,"France, United Kingdom, United States","September 8, 2020",2010,R,"Action & Adventure, International Movies",Action & Adventure
+420,Tig,7.4,s7081,Movie,United States,"July 17, 2015",2015,TV-14,"Documentaries, Stand-Up Comedy",Documentaries
+421,Edge of Seventeen,6.7,s1923,Movie,United States,"August 27, 2020",1998,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+422,Elena,7.6,s1972,Movie,"Brazil, United States","September 1, 2019",2012,TV-14,"Documentaries, International Movies",Documentaries
+423,Murder Mystery,6.0,s4290,Movie,United States,"June 14, 2019",2019,PG-13,Comedies,Comedies
+424,Kodachrome,6.8,s3432,Movie,"Canada, United States","April 20, 2018",2018,TV-MA,"Comedies, Dramas",Comedies
+425,Smoke & Mirrors,6.9,s5678,Movie,Spain,"June 1, 2017",2016,TV-14,"Dramas, International Movies, Thrillers",Dramas
+426,Imperial Dreams,6.7,s2958,Movie,United States,"February 3, 2017",2014,TV-MA,Dramas,Dramas
+427,Dostana,6.5,s1832,Movie,"India, United States","April 1, 2020",2008,TV-14,"Comedies, Dramas, International Movies",Comedies
+428,Mine 9,6.7,s4112,Movie,United States,"April 6, 2020",2019,TV-MA,"Dramas, Independent Movies",Dramas
+429,Jimmy Neutron: Boy Genius,6.0,s3180,Movie,United States,"January 1, 2020",2001,G,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Children & Family Movies
+430,Tramps,6.5,s7186,Movie,United States,"April 21, 2017",2017,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+431,Main Hoon Na,7.0,s3873,Movie,India,"April 1, 2018",2004,TV-14,"Action & Adventure, Comedies, Dramas",Action & Adventure
+432,Parmanu: The Story of Pokhran,7.6,s4781,Movie,India,"July 25, 2018",2018,TV-PG,"Dramas, International Movies",Dramas
+433,And Breathe Normally,6.9,s506,Movie,"Iceland, Sweden, Belgium","January 4, 2019",2018,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+434,Patton Oswalt: Annihilation,7.2,s4797,Movie,United States,"October 17, 2017",2017,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+435,The Ugly Truth,6.4,s6957,Movie,United States,"April 25, 2019",2009,R,"Comedies, Romantic Movies",Comedies
+436,I'm Thinking of Ending Things,6.7,s2928,Movie,United States,"September 4, 2020",2020,R,"Dramas, Independent Movies",Dramas
+437,Manto,7.4,s3919,Movie,India,"November 30, 2018",2018,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+438,Evelyn,7.1,s2041,Movie,United Kingdom,"September 10, 2019",2019,TV-MA,"Documentaries, International Movies",Documentaries
+439,Gunjan Saxena: The Kargil Girl,5.2,s2555,Movie,India,"August 12, 2020",2020,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+440,Hubie Halloween,5.2,s2856,Movie,United States,"October 7, 2020",2020,PG-13,"Comedies, Horror Movies",Comedies
+441,Trixie Mattel: Moving Parts,7.3,s7232,Movie,United States,"March 27, 2020",2019,TV-MA,"Documentaries, Music & Musicals",Documentaries
+442,Melvin Goes to Dinner,6.8,s4026,Movie,United States,"July 1, 2018",2003,R,"Comedies, Dramas, Independent Movies",Comedies
+443,Cowspiracy: The Sustainability Secret,8.3,s1514,Movie,United States,"September 15, 2015",2014,TV-PG,Documentaries,Documentaries
+444,Pink,8.1,s4863,Movie,India,"January 20, 2017",2016,TV-14,"Dramas, International Movies",Dramas
+445,"To Wong Foo, Thanks for Everything! Julie Newmar",6.6,s7120,Movie,United States,"August 1, 2019",1995,PG-13,"Comedies, Cult Movies, LGBTQ Movies",Comedies
+446,To All the Boys: P.S. I Still Love You,6.0,s7113,Movie,United States,"February 12, 2020",2020,TV-14,"Comedies, Romantic Movies",Comedies
+447,Uncorked,6.2,s7327,Movie,United States,"March 27, 2020",2020,TV-MA,"Dramas, Independent Movies",Dramas
+448,In the Shadow of the Moon,6.2,s2975,Movie,"United States, Canada","September 27, 2019",2019,TV-MA,"Dramas, Sci-Fi & Fantasy, Thrillers",Dramas
+449,Kaabil,7.1,s3271,Movie,India,"June 25, 2017",2017,TV-14,"Dramas, International Movies",Dramas
+450,Dil Dhadakne Do,6.9,s1759,Movie,India,"December 15, 2019",2015,TV-MA,"Comedies, Dramas, International Movies",Comedies
+451,John Leguizamo's Latin History for Morons,7.5,s3206,Movie,United States,"November 5, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+452,Kahaani,8.1,s3286,Movie,India,"June 26, 2019",2012,TV-14,"International Movies, Music & Musicals, Thrillers",International Movies
+453,Bad Day for the Cut,6.5,s690,Movie,United Kingdom,"January 18, 2018",2017,TV-MA,"Independent Movies, International Movies, Thrillers",Independent Movies
+454,Behind the Curve,6.5,s814,Movie,United States,"February 15, 2019",2018,TV-14,Documentaries,Documentaries
+455,Dark Skies,6.3,s1619,Movie,United States,"June 22, 2020",2013,PG-13,"Horror Movies, Sci-Fi & Fantasy",Horror Movies
+456,I Called Him Morgan,7.3,s2908,Movie,"Sweden, United States","July 24, 2017",2016,TV-14,"Documentaries, Music & Musicals",Documentaries
+457,The Red Sea Diving Resort,6.6,s6809,Movie,Canada,"July 31, 2019",2019,TV-MA,"Dramas, Thrillers",Dramas
+458,The Angel,6.6,s6084,Movie,"Israel, United States","September 14, 2018",2018,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+459,The Garden of Words,7.5,s6385,Movie,Japan,"November 15, 2019",2013,TV-14,"Anime Features, International Movies, Romantic Movies",Anime Features
+460,Headshot,6.3,s2672,Movie,Indonesia,"June 3, 2017",2016,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+461,Code 8,6.1,s1447,Movie,Canada,"April 11, 2020",2019,TV-MA,"Action & Adventure, Independent Movies, International Movies",Action & Adventure
+462,Just Another Love Story,7.2,s3249,Movie,Denmark,"May 5, 2009",2007,TV-MA,"Dramas, International Movies",Dramas
+463,The Iron Lady,6.4,s6510,Movie,"United Kingdom, France","July 7, 2019",2011,PG-13,"Dramas, International Movies",Dramas
+464,Andaz Apna Apna,8.2,s508,Movie,India,"May 11, 2020",1994,TV-14,"Action & Adventure, Comedies, Cult Movies",Action & Adventure
+465,When We First Met,6.4,s7587,Movie,United States,"February 9, 2018",2018,TV-14,"Comedies, Romantic Movies",Comedies
+466,Rocko's Modern Life: Static Cling,7.0,s5244,Movie,United States,"August 9, 2019",2019,TV-Y7,"Children & Family Movies, Comedies, LGBTQ Movies",Children & Family Movies
+467,The Blackcoat's Daughter,5.9,s6140,Movie,"Canada, United States","May 18, 2019",2015,R,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+468,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,7.1,s5816,Movie,United States,"May 25, 2018",2018,TV-14,Stand-Up Comedy,Stand-Up Comedy
+469,Nappily Ever After,6.4,s4401,Movie,United States,"March 7, 2019",2018,TV-MA,"Comedies, Dramas, Romantic Movies",Comedies
+470,Udaan,8.2,s7297,Movie,India,"October 1, 2018",2010,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+471,Prosecuting Evil: The Extraordinary World of Ben Ferencz,7.4,s4991,Movie,Canada,"June 1, 2019",2019,TV-MA,Documentaries,Documentaries
+472,Operation Red Sea,6.7,s4674,Movie,"China, Morocco, Hong Kong","November 27, 2018",2018,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+473,Dukhtar,7.0,s1892,Movie,"Pakistan, Norway, United States","September 1, 2016",2014,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+474,White Fang,6.9,s7597,Movie,"France, Luxembourg, United States","July 6, 2018",2018,TV-PG,"Children & Family Movies, Dramas",Children & Family Movies
+475,LA Originals,7.2,s3501,Movie,"United States, Argentina","April 10, 2020",2020,TV-MA,"Documentaries, Music & Musicals",Documentaries
+476,Jersey Boys,6.8,s3158,Movie,United States,"January 1, 2019",2014,R,"Dramas, Music & Musicals",Dramas
+477,Sand Storm,6.8,s5375,Movie,"Israel, Germany, France","December 15, 2016",2016,TV-PG,"Dramas, Independent Movies, International Movies",Dramas
+478,Trailer Park Boys: The Movie,7.2,s7179,Movie,Canada,"March 30, 2018",2006,R,"Comedies, Cult Movies",Comedies
+479,"Bikram: Yogi, Guru, Predator",6.7,s914,Movie,United States,"November 20, 2019",2019,TV-MA,Documentaries,Documentaries
+480,Kabhi Alvida Naa Kehna,6.1,s3281,Movie,India,"April 1, 2020",2006,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+481,Cop Car,6.3,s1500,Movie,United States,"June 16, 2019",2015,R,Thrillers,Thrillers
+482,An Easy Girl,5.5,s490,Movie,France,"August 13, 2020",2019,TV-MA,"Comedies, Dramas, International Movies",Comedies
+483,The Signal,6.1,s6870,Movie,United States,"July 13, 2018",2014,PG-13,"Sci-Fi & Fantasy, Thrillers",Sci-Fi & Fantasy
+484,How to Change the World,7.6,s2843,Movie,"Canada, United Kingdom, Netherlands","January 1, 2016",2015,NR,"Documentaries, International Movies",Documentaries
+485,13 Sins,6.3,s66,Movie,United States,"January 13, 2019",2014,R,"Horror Movies, Thrillers",Horror Movies
+486,Dil Chahta Hai,8.1,s1758,Movie,India,"December 15, 2019",2001,TV-14,"Comedies, Dramas, International Movies",Comedies
+487,Polar,6.3,s4902,Movie,"United States, Germany","January 25, 2019",2019,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+488,The Kissing Booth,6.0,s6536,Movie,"United Kingdom, United States","May 11, 2018",2018,TV-14,"Comedies, Romantic Movies",Comedies
+489,My Octopus Teacher,8.5,s4343,Movie,South Africa,"September 7, 2020",2020,TV-G,"Documentaries, International Movies",Documentaries
+490,The Green Hornet,5.8,s6426,Movie,United States,"April 18, 2020",2011,PG-13,"Action & Adventure, Comedies",Action & Adventure
+491,No One Killed Jessica,7.2,s4492,Movie,India,"November 1, 2018",2011,TV-MA,"Dramas, International Movies",Dramas
+492,Screwball,7.1,s5445,Movie,United States,"August 6, 2019",2018,TV-MA,"Documentaries, Sports Movies",Documentaries
+493,American Murder: The Family Next Door,7.2,s471,Movie,United States,"September 30, 2020",2020,TV-MA,Documentaries,Documentaries
+494,Breath,6.7,s1094,Movie,Australia,"December 5, 2018",2018,TV-MA,"Dramas, Sports Movies",Dramas
+495,Horns,6.5,s2808,Movie,"United States, Canada","August 1, 2019",2013,R,"Dramas, Horror Movies, Sci-Fi & Fantasy",Dramas
+496,Advantageous,6.2,s317,Movie,United States,"June 23, 2015",2015,TV-MA,"Dramas, Independent Movies, Sci-Fi & Fantasy",Dramas
+497,Between Two Ferns: The Movie,6.1,s865,Movie,United States,"September 20, 2019",2019,TV-MA,Comedies,Comedies
+498,Animal Crackers,5.8,s529,Movie,"China, Spain, South Korea, United States","July 24, 2020",2020,TV-Y7,"Children & Family Movies, Comedies",Children & Family Movies
+499,Strong Island,6.4,s5853,Movie,"United States, Denmark","September 15, 2017",2017,TV-MA,Documentaries,Documentaries
+500,Dolphin Tale 2,6.4,s1806,Movie,United States,"February 25, 2019",2014,PG,"Children & Family Movies, Dramas",Children & Family Movies
+501,The Secret,5.6,s6856,Movie,,"September 15, 2018",2018,TV-14,"Horror Movies, International Movies",Horror Movies
+502,Wish I Was Here,6.7,s7642,Movie,United States,"August 16, 2018",2014,R,"Comedies, Dramas, Independent Movies",Comedies
+503,Saving Capitalism,6.8,s5416,Movie,United States,"November 21, 2017",2017,TV-PG,Documentaries,Documentaries
+504,Roll Red Roll,7.1,s5258,Movie,United States,"August 8, 2019",2018,TV-MA,Documentaries,Documentaries
+505,BuyBust,5.8,s1154,Movie,Philippines,"November 13, 2018",2018,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+506,A Futile and Stupid Gesture,6.8,s175,Movie,United States,"January 26, 2018",2018,TV-MA,Comedies,Comedies
+507,Outside In,6.6,s4710,Movie,United States,"June 1, 2018",2018,TV-MA,"Dramas, Independent Movies",Dramas
+508,A Fortunate Man,7.2,s174,Movie,Denmark,"April 20, 2019",2018,TV-MA,"Dramas, International Movies",Dramas
+509,Soorma,7.4,s5723,Movie,India,"October 13, 2018",2018,TV-14,"Dramas, International Movies, Sports Movies",Dramas
+510,Have a Good Trip: Adventures in Psychedelics,6.8,s2656,Movie,United States,"May 11, 2020",2020,TV-MA,Documentaries,Documentaries
+511,White Girl,5.7,s7598,Movie,United States,"December 2, 2016",2016,TV-MA,"Dramas, Independent Movies",Dramas
+512,The Other Side of the Wind,6.8,s6732,Movie,"France, Iran, United States","November 2, 2018",2018,R,"Classic Movies, Dramas, Independent Movies",Classic Movies
+513,Fire in the Blood,7.7,s2174,Movie,India,"May 13, 2020",2012,TV-14,"Documentaries, International Movies",Documentaries
+514,Along Came a Spider,6.4,s432,Movie,"United States, Germany, Canada","October 1, 2019",2001,R,Thrillers,Thrillers
+515,Father Soldier Son,7.3,s2133,Movie,United States,"July 17, 2020",2020,R,Documentaries,Documentaries
+516,Carrie Pilby,6.6,s1228,Movie,United States,"September 5, 2017",2016,TV-MA,"Comedies, Dramas",Comedies
+517,Goldstone,6.5,s2469,Movie,Australia,"December 10, 2018",2016,R,Thrillers,Thrillers
+518,Spelling the Dream,6.9,s5750,Movie,United States,"June 3, 2020",2020,TV-G,"Children & Family Movies, Documentaries",Children & Family Movies
+519,Rang De Basanti,8.2,s5098,Movie,India,"August 2, 2018",2006,TV-14,"Dramas, International Movies",Dramas
+520,Guzaarish,7.4,s2562,Movie,India,"August 2, 2018",2010,TV-14,"Dramas, International Movies",Dramas
+521,Tigertail,6.4,s7085,Movie,United States,"April 10, 2020",2020,PG,Dramas,Dramas
+522,Layla M.,6.7,s3553,Movie,"Netherlands, Belgium, Germany, Jordan","March 23, 2018",2016,TV-MA,"Dramas, International Movies",Dramas
+523,Chris Rock: Tamborine,6.6,s1357,Movie,United States,"February 14, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+524,Eddie Murphy: Delirious,8.2,s1919,Movie,United States,"April 15, 2018",1983,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+525,John Mulaney: New in Town,8.3,s3210,Movie,United States,"April 1, 2018",2012,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+526,Act of Valor,6.5,s299,Movie,United States,"June 1, 2020",2012,R,Action & Adventure,Action & Adventure
+527,Let It Snow,5.8,s3608,Movie,United States,"November 8, 2019",2019,PG-13,"Comedies, Dramas, LGBTQ Movies",Comedies
+528,Tamasha,7.3,s5979,Movie,India,"August 2, 2018",2015,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+529,All About Nina,6.0,s404,Movie,United States,"March 18, 2019",2018,R,"Comedies, Dramas, Independent Movies",Comedies
+530,Psychokinesis,5.9,s4995,Movie,South Korea,"April 25, 2018",2018,TV-MA,"Action & Adventure, Comedies, International Movies",Action & Adventure
+531,Sky Ladder: The Art of Cai Guo-Qiang,7.3,s5653,Movie,United States,"October 14, 2016",2016,TV-MA,Documentaries,Documentaries
+532,The Princess Switch,6.0,s6781,Movie,United States,"November 16, 2018",2018,TV-G,"Children & Family Movies, Dramas, Romantic Movies",Children & Family Movies
+533,High Strung Free Dance,6.7,s2735,Movie,"Romania, United States","May 31, 2020",2019,TV-14,"Dramas, Music & Musicals, Romantic Movies",Dramas
+534,I Am Kalam,8.0,s2893,Movie,India,"July 1, 2018",2010,TV-PG,"Children & Family Movies, Comedies, Dramas",Children & Family Movies
+535,The Unknown Known,7.0,s6968,Movie,United States,"February 22, 2019",2013,PG-13,Documentaries,Documentaries
+536,Animal World,6.5,s530,Movie,China,"September 28, 2018",2018,TV-MA,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Action & Adventure
+537,Into the Forest,5.8,s3032,Movie,Canada,"November 7, 2018",2015,R,"Dramas, International Movies, Sci-Fi & Fantasy",Dramas
+538,Circle,6.0,s1395,Movie,United States,"October 16, 2015",2015,TV-MA,"Dramas, Independent Movies, Sci-Fi & Fantasy",Dramas
+539,Rugrats in Paris: The Movie,6.1,s5296,Movie,"Germany, United States","October 1, 2019",2000,G,"Children & Family Movies, Comedies",Children & Family Movies
+540,Tortilla Soup,6.6,s7160,Movie,United States,"September 15, 2020",2001,PG-13,"Comedies, Dramas, Romantic Movies",Comedies
+541,Louis C.K.: Hilarious,8.5,s3738,Movie,United States,"September 16, 2016",2010,,Movies,Movies
+542,Saturday Church,6.3,s5408,Movie,United States,"October 6, 2020",2017,TV-MA,"Dramas, LGBTQ Movies",Dramas
+543,Joan Didion: The Center Will Not Hold,7.4,s3193,Movie,United States,"October 27, 2017",2017,TV-14,Documentaries,Documentaries
+544,Joshua: Teenager vs. Superpower,7.1,s3223,Movie,United States,"May 26, 2017",2017,TV-14,Documentaries,Documentaries
+545,Shutter,7.1,s5592,Movie,Thailand,"September 5, 2018",2004,TV-MA,"Horror Movies, International Movies",Horror Movies
+546,Night Comes On,6.6,s4464,Movie,United States,"August 27, 2020",2018,TV-MA,"Dramas, Independent Movies",Dramas
+547,Heartbreakers,6.2,s2678,Movie,United States,"December 31, 2019",2001,PG-13,"Comedies, Romantic Movies",Comedies
+548,Let There Be Light,7.4,s3609,Movie,United States,"March 31, 2017",1946,TV-PG,"Classic Movies, Documentaries",Classic Movies
+549,Seeing Allred,6.8,s5483,Movie,United States,"February 9, 2018",2018,TV-14,Documentaries,Documentaries
+550,The Monster,5.4,s6683,Movie,"United States, Canada","January 9, 2019",2016,R,"Horror Movies, Independent Movies",Horror Movies
+551,Double Jeopardy,6.5,s1834,Movie,"United States, Germany, Canada","July 1, 2020",1999,R,Thrillers,Thrillers
+552,What We Started,7.1,s7568,Movie,United States,"July 1, 2018",2017,TV-MA,"Documentaries, Music & Musicals",Documentaries
+553,A Christmas Prince,5.8,s160,Movie,United States,"November 17, 2017",2017,TV-PG,"Children & Family Movies, Dramas, Romantic Movies",Children & Family Movies
+554,Sweet Virginia,6.2,s5940,Movie,"United States, Canada","December 1, 2019",2017,R,"Dramas, Independent Movies, Thrillers",Dramas
+555,Sunday's Illness,6.9,s5883,Movie,Spain,"June 15, 2018",2017,PG-13,"Dramas, Independent Movies, International Movies",Dramas
+556,Velvet Buzzsaw,5.7,s7402,Movie,United States,"February 1, 2019",2019,R,"Dramas, Thrillers",Dramas
+557,Mirror Mirror,5.6,s4126,Movie,"United States, Canada","April 24, 2020",2012,PG,"Children & Family Movies, Comedies",Children & Family Movies
+558,Clash of the Titans,5.8,s1409,Movie,"United States, United Kingdom, Australia","August 1, 2019",2010,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+559,Kevin Hart: What Now?,5.9,s3347,Movie,United States,"April 11, 2017",2016,R,Stand-Up Comedy,Stand-Up Comedy
+560,The Keeping Hours,6.3,s6526,Movie,United States,"September 1, 2018",2017,PG-13,"Dramas, Thrillers",Dramas
+561,Mr. Deeds,5.8,s4251,Movie,United States,"August 1, 2020",2002,PG-13,"Comedies, Romantic Movies",Comedies
+562,Same Kind of Different as Me,6.6,s5365,Movie,United States,"August 17, 2018",2017,PG-13,"Dramas, Faith & Spirituality",Dramas
+563,Luck by Chance,7.1,s3809,Movie,India,"December 15, 2019",2009,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+564,Wakefield,6.3,s7464,Movie,United States,"March 2, 2019",2016,R,Dramas,Dramas
+565,Pee-wee's Big Holiday,6.1,s4811,Movie,United States,"March 18, 2016",2016,TV-PG,"Children & Family Movies, Comedies, Cult Movies",Children & Family Movies
+566,Chicken Little,5.7,s1326,Movie,United States,"March 16, 2016",2005,G,"Children & Family Movies, Comedies",Children & Family Movies
+567,What Keeps You Alive,5.7,s7558,Movie,Canada,"August 1, 2020",2018,R,"LGBTQ Movies, Thrillers",LGBTQ Movies
+568,Kickboxer: Retaliation,5.0,s3366,Movie,United States,"April 26, 2018",2017,R,Action & Adventure,Action & Adventure
+569,ARQ,6.4,s583,Movie,"Canada, United States","September 16, 2016",2016,TV-MA,"International Movies, Sci-Fi & Fantasy, Thrillers",International Movies
+570,Ride Like a Girl,7.0,s5204,Movie,Australia,"June 27, 2020",2020,PG,"Children & Family Movies, Dramas, Independent Movies",Children & Family Movies
+571,Every Time I Die,5.1,s2046,Movie,United States,"February 25, 2020",2019,TV-MA,"Dramas, Independent Movies, Thrillers",Dramas
+572,Cardboard Gangsters,6.4,s1212,Movie,Ireland,"September 15, 2018",2016,TV-MA,"Dramas, International Movies",Dramas
+573,First Match,6.3,s2186,Movie,United States,"March 30, 2018",2018,TV-MA,"Dramas, Independent Movies, Sports Movies",Dramas
+574,"As Above, So Below",6.2,s592,Movie,United States,"September 16, 2018",2014,R,"Horror Movies, Thrillers",Horror Movies
+575,The World Is Yours,6.4,s7017,Movie,France,"November 30, 2018",2018,TV-MA,"Action & Adventure, Comedies, International Movies",Action & Adventure
+576,Maps to the Stars,6.2,s3924,Movie,"Canada, Germany, France, United States","December 16, 2018",2014,R,"Comedies, Dramas",Comedies
+577,The Perfect Date,5.8,s6747,Movie,United States,"April 12, 2019",2019,TV-14,"Comedies, Romantic Movies",Comedies
+578,Voyeur,6.2,s7446,Movie,United States,"December 1, 2017",2017,TV-MA,Documentaries,Documentaries
+579,Shadow,7.0,s5533,Movie,"China, Hong Kong","November 6, 2019",2018,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+580,Nacho Libre,5.8,s4383,Movie,"United States, Mexico","November 1, 2019",2006,PG,"Comedies, Sports Movies",Comedies
+581,The Burial of Kojo,6.4,s6188,Movie,"Ghana, United States","March 31, 2019",2018,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+582,Middle Men,6.8,s4074,Movie,United States,"June 10, 2020",2009,R,"Comedies, Dramas, Independent Movies",Comedies
+583,The Kissing Booth 2,5.9,s6537,Movie,"United Kingdom, United States","July 24, 2020",2020,TV-14,"Comedies, Romantic Movies",Comedies
+584,Fire in Paradise,7.4,s2173,Movie,United States,"November 1, 2019",2019,TV-MA,Documentaries,Documentaries
+585,Paheli,6.5,s4739,Movie,India,"April 1, 2018",2005,TV-PG,"Dramas, International Movies, Romantic Movies",Dramas
+586,Horse Girl,5.9,s2813,Movie,United States,"February 7, 2020",2020,R,"Dramas, Independent Movies",Dramas
+587,The Short Game,7.4,s6865,Movie,United States,"December 12, 2013",2013,PG,"Children & Family Movies, Documentaries, Sports Movies",Children & Family Movies
+588,Dinner for Schmucks,5.9,s1767,Movie,United States,"January 1, 2020",2010,PG-13,Comedies,Comedies
+589,You Don't Mess with the Zohan,5.5,s7729,Movie,United States,"September 1, 2019",2008,UR,"Action & Adventure, Comedies",Action & Adventure
+590,Banana Split,6.2,s715,Movie,United States,"July 26, 2020",2020,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+591,Paan Singh Tomar,8.2,s4722,Movie,India,"November 1, 2018",2010,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+592,The Butterfly's Dream,7.8,s6190,Movie,Turkey,"March 10, 2017",2013,TV-PG,"Dramas, International Movies, Romantic Movies",Dramas
+593,Win It All,6.2,s7630,Movie,United States,"April 7, 2017",2017,TV-MA,"Comedies, Independent Movies, Romantic Movies",Comedies
+594,We Summon the Darkness,5.2,s7510,Movie,"United States, Canada, United Kingdom","August 8, 2020",2020,R,"Horror Movies, Thrillers",Horror Movies
+595,Extinction,5.8,s2071,Movie,United States,"July 27, 2018",2018,TV-MA,"Action & Adventure, Dramas, Sci-Fi & Fantasy",Action & Adventure
+596,Bon Cop Bad Cop 2,6.6,s1038,Movie,Canada,"November 11, 2017",2017,TV-MA,"Action & Adventure, Comedies, International Movies",Action & Adventure
+597,Game Over,7.1,s2342,Movie,Egypt,"May 19, 2020",2012,TV-14,"Comedies, International Movies, Romantic Movies",Comedies
+598,Conor McGregor: Notorious,7.2,s1485,Movie,Ireland,"March 21, 2018",2017,R,"Documentaries, Sports Movies",Documentaries
+599,What a Girl Wants,5.8,s7546,Movie,"United States, United Kingdom","May 1, 2020",2003,PG,"Children & Family Movies, Comedies",Children & Family Movies
+600,The Knight Before Christmas,5.5,s6539,Movie,United States,"November 21, 2019",2019,TV-14,"Children & Family Movies, Comedies, Romantic Movies",Children & Family Movies
+601,Seoul Searching,7.0,s5496,Movie,"South Korea, China, United States","December 15, 2017",2015,TV-MA,"Comedies, Dramas, International Movies",Comedies
+602,The Bling Ring,5.6,s6147,Movie,"United States, United Kingdom, France, Germany, Japan","January 18, 2020",2013,R,"Dramas, Independent Movies",Dramas
+603,Lockout,6.1,s3701,Movie,"France, United States","May 7, 2020",2012,PG-13,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Action & Adventure
+604,Ghost Rider,5.2,s2400,Movie,"United States, Australia","October 1, 2020",2007,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+605,The Wrong Missy,5.7,s7025,Movie,United States,"May 13, 2020",2020,TV-MA,"Comedies, Romantic Movies",Comedies
+606,Soni,7.1,s5719,Movie,India,"January 18, 2019",2018,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+607,Ne Zha,7.5,s4440,Movie,China,"May 25, 2020",2019,TV-14,"Action & Adventure, Comedies, International Movies",Action & Adventure
+608,Berserk: The Golden Age Arc III - The Advent,7.9,s846,Movie,Japan,"September 1, 2017",2013,TV-MA,"Action & Adventure, Anime Features, International Movies",Action & Adventure
+609,Ninja Assassin,6.3,s4478,Movie,"Germany, United States, France","February 1, 2019",2009,R,Action & Adventure,Action & Adventure
+610,Chasing Trane,7.3,s1294,Movie,United States,"November 13, 2017",2016,TV-PG,"Documentaries, Music & Musicals",Documentaries
+611,Long Time Running,7.8,s3714,Movie,Canada,"November 12, 2017",2017,TV-14,"Documentaries, International Movies, Music & Musicals",Documentaries
+612,Heroin(e),6.8,s2711,Movie,United States,"September 12, 2017",2017,TV-14,Documentaries,Documentaries
+613,Weed the People,7.2,s7520,Movie,United States,"May 14, 2019",2018,TV-MA,Documentaries,Documentaries
+614,Lady J,6.9,s3518,Movie,France,"March 8, 2019",2019,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+615,May the Devil Take You,6.0,s3996,Movie,Indonesia,"November 15, 2018",2018,TV-MA,"Horror Movies, International Movies",Horror Movies
+616,The Forest of Love,6.3,s6369,Movie,Japan,"October 11, 2019",2019,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+617,Notes on Blindness,7.1,s4517,Movie,United Kingdom,"March 15, 2017",2016,TV-PG,"Documentaries, Dramas, International Movies",Documentaries
+618,"Michael Bolton's Big, Sexy Valentine's Day Special",6.7,s4068,Movie,United States,"February 7, 2017",2017,TV-MA,"Comedies, Music & Musicals, Romantic Movies",Comedies
+619,Lu Over the Wall,6.8,s3799,Movie,Japan,"March 18, 2020",2017,PG,"Anime Features, Music & Musicals, Sci-Fi & Fantasy",Anime Features
+620,Benji,6.3,s835,Movie,"United Arab Emirates, United States","March 16, 2018",2018,TV-PG,"Children & Family Movies, Dramas",Children & Family Movies
+621,Ala Vaikunthapurramuloo,7.1,s369,Movie,India,"February 27, 2020",2020,TV-14,"Action & Adventure, Comedies, Dramas",Action & Adventure
+622,Highway,7.6,s2738,Movie,India,"August 2, 2018",2014,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+623,Morris from America,6.2,s4228,Movie,"Germany, United States","November 1, 2018",2016,R,"Dramas, Independent Movies, International Movies",Dramas
+624,Mr. Roosevelt,6.2,s4258,Movie,United States,"December 26, 2017",2017,TV-MA,"Comedies, Independent Movies",Comedies
+625,The Drug King,6.1,s6316,Movie,South Korea,"February 21, 2019",2018,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+626,The Space Between Us,6.4,s6890,Movie,United States,"June 1, 2019",2016,PG-13,"Action & Adventure, Romantic Movies, Sci-Fi & Fantasy",Action & Adventure
+627,Would You Rather,5.7,s7674,Movie,United States,"June 5, 2019",2013,TV-MA,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+628,The C Word,7.6,s6193,Movie,United States,"March 24, 2017",2016,TV-14,Documentaries,Documentaries
+629,Hit & Run,6.1,s2756,Movie,United States,"November 8, 2019",2012,R,"Action & Adventure, Comedies, Romantic Movies",Action & Adventure
+630,Dev.D,8.0,s1725,Movie,India,"October 1, 2018",2009,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+631,The Untold Tales of Armistead Maupin,7.6,s6973,Movie,United States,"November 1, 2018",2017,TV-MA,"Documentaries, LGBTQ Movies",Documentaries
+632,Bhavesh Joshi Superhero,7.6,s889,Movie,India,"August 16, 2018",2018,TV-14,"Dramas, International Movies, Sci-Fi & Fantasy",Dramas
+633,Head On,6.5,s2671,Movie,Australia,"August 25, 2018",1998,TV-MA,"Dramas, Independent Movies, LGBTQ Movies",Dramas
+634,Jupiter Ascending,5.3,s3246,Movie,"United States, Australia","August 1, 2019",2015,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+635,In This Corner of the World,7.8,s2977,Movie,Japan,"March 15, 2018",2016,PG-13,"Anime Features, Children & Family Movies, International Movies",Anime Features
+636,Lust Stories,6.5,s3827,Movie,India,"June 15, 2018",2018,TV-MA,"Comedies, Dramas, International Movies",Comedies
+637,Barakah Meets Barakah,6.2,s731,Movie,Saudi Arabia,"October 12, 2017",2016,TV-MA,"Comedies, International Movies, Romantic Movies",Comedies
+638,System Crasher,7.8,s5953,Movie,Germany,"February 21, 2020",2020,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+639,Brain on Fire,6.6,s1075,Movie,"United States, Canada, Ireland","June 22, 2018",2016,PG-13,"Dramas, Independent Movies, International Movies",Dramas
+640,Triple Threat,5.6,s7230,Movie,"Thailand, China, United States","June 22, 2019",2019,R,"Action & Adventure, International Movies",Action & Adventure
+641,A Gray State,6.2,s183,Movie,United States,"December 25, 2017",2017,TV-MA,Documentaries,Documentaries
+642,Michelle Wolf: Joke Show,7.1,s4073,Movie,United States,"December 10, 2019",2019,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+643,"Live Twice, Love Once",7.2,s3682,Movie,Spain,"January 7, 2020",2020,TV-MA,"Comedies, Dramas, International Movies",Comedies
+644,The Discovery,6.3,s6306,Movie,United States,"March 31, 2017",2017,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+645,Rising Phoenix,8.1,s5222,Movie,United Kingdom,"August 26, 2020",2020,PG-13,"Documentaries, International Movies, Sports Movies",Documentaries
+646,Lovesong,6.3,s3791,Movie,United States,"May 15, 2017",2016,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+647,The Debt Collector,5.8,s6282,Movie,"United Kingdom, United States","September 3, 2018",2018,TV-MA,Action & Adventure,Action & Adventure
+648,Underdogs,6.5,s7344,Movie,"Argentina, Spain","June 15, 2020",2013,PG,"Children & Family Movies, Sports Movies",Children & Family Movies
+649,2 States,6.9,s79,Movie,India,"August 4, 2018",2014,TV-PG,"Comedies, Dramas, International Movies",Comedies
+650,14 Blades,6.3,s69,Movie,"Hong Kong, China, Singapore","April 3, 2019",2010,R,"Action & Adventure, International Movies",Action & Adventure
+651,Freak Show,6.6,s2266,Movie,United States,"August 13, 2020",2018,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+652,Hasan Minhaj: Homecoming King,8.3,s2642,Movie,,"May 23, 2017",2017,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+653,The Rugrats Movie,5.9,s6840,Movie,United States,"October 1, 2019",1998,G,"Children & Family Movies, Comedies",Children & Family Movies
+654,Violet Evergarden: Eternity and the Auto Memory Doll,7.4,s7425,Movie,Japan,"April 2, 2020",2019,TV-PG,"Anime Features, International Movies, Sci-Fi & Fantasy",Anime Features
+655,Barry,5.8,s756,Movie,United States,"December 16, 2016",2016,TV-MA,Dramas,Dramas
+656,John Mulaney: The Comeback Kid,8.0,s3211,Movie,United States,"November 13, 2015",2015,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+657,The Great Hack,7.0,s6421,Movie,United States,"July 24, 2019",2019,TV-MA,Documentaries,Documentaries
+658,Iliza Shlesinger: Elder Millennial,7.2,s2946,Movie,United States,"July 24, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+659,The Lost Husband,6.0,s6620,Movie,United States,"August 10, 2020",2020,PG-13,"Dramas, Romantic Movies",Dramas
+660,The Paramedic,5.6,s6741,Movie,Spain,"September 16, 2020",2020,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+661,Candy Jar,5.8,s1198,Movie,United States,"April 27, 2018",2018,TV-14,"Children & Family Movies, Dramas, Romantic Movies",Children & Family Movies
+662,Mitt,6.9,s4154,Movie,United States,"January 24, 2014",2014,TV-PG,Documentaries,Documentaries
+663,Mean Dreams,6.3,s4007,Movie,Canada,"July 1, 2019",2016,R,"Dramas, Independent Movies, Thrillers",Dramas
+664,Manson Family Vacation,5.8,s3918,Movie,United States,"October 27, 2015",2015,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+665,E-Team,7.1,s1903,Movie,United States,"October 24, 2014",2014,TV-MA,Documentaries,Documentaries
+666,The Ballad of Lefty Brown,6.3,s6112,Movie,United States,"February 7, 2020",2017,R,Dramas,Dramas
+667,Occupation,5.0,s4562,Movie,Australia,"January 3, 2019",2018,R,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+668,Marc Maron: Too Real,7.2,s3931,Movie,United States,"September 5, 2017",2017,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+669,Buster's Mal Heart,6.1,s1152,Movie,United States,"August 26, 2017",2016,TV-MA,"Independent Movies, Thrillers",Independent Movies
+670,The Laundromat,6.3,s6576,Movie,United States,"October 18, 2019",2019,R,"Comedies, Dramas",Comedies
+671,Eli,5.7,s1977,Movie,United States,"October 18, 2019",2019,TV-MA,Horror Movies,Horror Movies
+672,My Suicide,7.1,s4361,Movie,United States,"October 1, 2018",2009,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+673,Goosebumps 2: Haunted Halloween,5.6,s2500,Movie,"United States, United Kingdom","April 25, 2019",2018,PG,"Children & Family Movies, Comedies",Children & Family Movies
+674,28 Days,6.1,s95,Movie,United States,"September 30, 2020",2000,PG-13,"Comedies, Dramas",Comedies
+675,Berserk: The Golden Age Arc II - The Battle for Doldrey,7.8,s845,Movie,Japan,"September 1, 2017",2012,TV-MA,"Action & Adventure, Anime Features, International Movies",Action & Adventure
+676,The Cloverfield Paradox,5.5,s6229,Movie,United States,"February 5, 2018",2018,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+677,Menashe,6.5,s4036,Movie,United States,"January 25, 2020",2017,PG,"Dramas, Independent Movies",Dramas
+678,A Little Chaos,6.5,s197,Movie,United Kingdom,"April 17, 2019",2014,R,"Dramas, Independent Movies, International Movies",Dramas
+679,Rustom,7.1,s5319,Movie,India,"January 6, 2017",2016,TV-14,"Dramas, International Movies",Dramas
+680,Agneepath,7.7,s344,Movie,India,"April 1, 2020",1990,TV-14,"Dramas, International Movies",Dramas
+681,The Legend of 420,6.7,s6581,Movie,United States,"December 1, 2017",2017,TV-MA,Documentaries,Documentaries
+682,Una,6.2,s7313,Movie,"United Kingdom, Canada, United States","April 1, 2018",2016,R,"Dramas, International Movies",Dramas
+683,Feminists: What Were They Thinking?,6.9,s2147,Movie,United States,"October 12, 2018",2018,TV-MA,"Documentaries, LGBTQ Movies",Documentaries
+684,To the Bone,6.8,s7118,Movie,United States,"July 14, 2017",2017,TV-MA,"Dramas, Independent Movies",Dramas
+685,Secret in Their Eyes,6.3,s5461,Movie,"United States, United Kingdom, Spain, South Korea","April 1, 2018",2015,PG-13,"Dramas, Thrillers",Dramas
+686,Ten Years,6.7,s6022,Movie,Hong Kong,"February 12, 2019",2015,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+687,Poseidon,5.7,s4916,Movie,United States,"September 1, 2019",2006,PG-13,"Action & Adventure, Dramas",Action & Adventure
+688,Alone in Berlin,6.5,s430,Movie,"United Kingdom, France, Germany","February 15, 2019",2016,R,Dramas,Dramas
+689,Siren,5.3,s5637,Movie,United States,"January 1, 2020",2016,TV-MA,Horror Movies,Horror Movies
+690,Don't Be Afraid of the Dark,5.6,s1812,Movie,"United States, Australia, Mexico","November 2, 2019",2010,R,Horror Movies,Horror Movies
+691,Bethany Hamilton: Unstoppable,7.3,s858,Movie,United States,"March 25, 2020",2019,PG,"Children & Family Movies, Documentaries, Sports Movies",Children & Family Movies
+692,Anon,6.1,s542,Movie,"United Kingdom, Canada, United States, Germany","May 4, 2018",2018,TV-MA,"Dramas, Sci-Fi & Fantasy, Thrillers",Dramas
+693,Clive Davis: The Soundtrack of Our Lives,7.5,s1420,Movie,United States,"September 17, 2019",2017,TV-MA,"Documentaries, Music & Musicals",Documentaries
+694,Berserk: The Golden Age Arc I - The Egg of the King,7.6,s844,Movie,Japan,"October 15, 2016",2012,TV-MA,"Action & Adventure, Anime Features, International Movies",Action & Adventure
+695,We Are Your Friends,6.2,s7503,Movie,"United Kingdom, France, United States","January 27, 2020",2015,R,"Dramas, Independent Movies, Music & Musicals",Dramas
+696,Sand Castle,6.3,s5374,Movie,United States,"April 21, 2017",2017,TV-MA,"Action & Adventure, Dramas, Independent Movies",Action & Adventure
+697,Class Rank,6.4,s1412,Movie,United States,"September 18, 2018",2018,TV-MA,Comedies,Comedies
+698,The Breaker Upperers,5.9,s6178,Movie,New Zealand,"February 15, 2019",2018,TV-MA,"Comedies, Independent Movies, International Movies",Comedies
+699,Children of the Sea,6.5,s1335,Movie,Japan,"September 1, 2020",2019,TV-PG,Anime Features,Anime Features
+700,Ellen DeGeneres: Relatable,6.5,s1982,TV Show,United States,"December 18, 2018",2018,TV-MA,"Stand-Up Comedy & Talk Shows, TV Comedies",Stand-Up Comedy & Talk Shows
+701,Beyond Skyline,5.3,s876,Movie,"United States, Canada, Indonesia, United Kingdom, China, Singapore","April 15, 2018",2017,R,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+702,Set It Up,6.5,s5504,Movie,United States,"June 15, 2018",2018,TV-MA,"Comedies, Romantic Movies",Comedies
+703,Bill Burr: Let It Go,8.4,s916,Movie,United States,"November 10, 2017",2010,NR,Stand-Up Comedy,Stand-Up Comedy
+704,Khoobsurat,6.4,s3358,Movie,India,"October 1, 2018",2014,TV-14,"Comedies, International Movies, Romantic Movies",Comedies
+705,Afterschool,6.1,s332,Movie,United States,"August 13, 2020",2008,TV-MA,"Dramas, Independent Movies",Dramas
+706,David Brent: Life on the Road,6.3,s1636,Movie,"United Kingdom, United States","February 10, 2017",2016,TV-MA,"Comedies, International Movies",Comedies
+707,Nobody Speak: Trials of the Free Press,6.5,s4502,Movie,"Netherlands, United States","June 23, 2017",2017,TV-14,Documentaries,Documentaries
+708,The Oath,6.4,s6717,TV Show,Singapore,"July 1, 2017",2011,TV-14,"International TV Shows, Romantic TV Shows, TV Dramas",International TV Shows
+709,Hannibal Buress: Comedy Camisado,6.6,s2602,Movie,United States,"February 5, 2016",2016,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+710,Message from the King,6.4,s4053,Movie,"United Kingdom, France, Belgium, United States","August 4, 2017",2017,TV-MA,"Independent Movies, Thrillers",Independent Movies
+711,A Bad Moms Christmas,5.6,s149,Movie,"United States, China","February 14, 2020",2017,R,Comedies,Comedies
+712,Someone Great,6.2,s5705,Movie,United States,"April 19, 2019",2019,R,"Comedies, Romantic Movies",Comedies
+713,Wildling,5.5,s7626,Movie,United States,"April 1, 2020",2018,R,"Horror Movies, Independent Movies, Sci-Fi & Fantasy",Horror Movies
+714,Like Father,6.1,s3639,Movie,United States,"August 3, 2018",2018,TV-MA,"Comedies, Dramas",Comedies
+715,The Ottoman Lieutenant,6.6,s6733,Movie,"Turkey, United States","August 1, 2020",2017,R,"Dramas, Romantic Movies",Dramas
+716,Simon Killer,6.3,s5615,Movie,"United States, France","August 13, 2020",2012,TV-MA,"Dramas, Independent Movies, Thrillers",Dramas
+717,Bill Nye: Science Guy,6.1,s926,Movie,United States,"April 25, 2018",2017,TV-PG,Documentaries,Documentaries
+718,Mercury 13,6.8,s4041,Movie,United States,"April 20, 2018",2018,TV-PG,Documentaries,Documentaries
+719,The Smurfs,5.4,s6881,Movie,"United States, Belgium, Canada","September 1, 2020",2011,PG,"Children & Family Movies, Comedies",Children & Family Movies
+720,1000 Rupee Note,7.3,s60,Movie,India,"December 1, 2016",2014,TV-14,"Dramas, International Movies",Dramas
+721,The Bounty Hunter,5.6,s6163,Movie,United States,"October 1, 2019",2010,PG-13,"Action & Adventure, Comedies, Romantic Movies",Action & Adventure
+722,The Occupant,6.3,s6718,Movie,Spain,"March 25, 2020",2020,TV-MA,"Independent Movies, International Movies, Thrillers",Independent Movies
+723,Vizontele,8.0,s7439,Movie,Turkey,"March 10, 2017",2001,NR,"Comedies, Dramas, International Movies",Comedies
+724,6 Balloons,5.8,s126,Movie,United States,"April 6, 2018",2018,TV-MA,"Dramas, Independent Movies",Dramas
+725,How to Be a Latin Lover,6.0,s2841,Movie,"Mexico, United States","November 1, 2019",2017,PG-13,Comedies,Comedies
+726,Kabhi Haan Kabhi Naa,7.8,s3282,Movie,India,"May 15, 2017",1994,TV-14,"Comedies, Dramas, International Movies",Comedies
+727,Love Off the Cuff,6.5,s3771,Movie,"China, Hong Kong","January 31, 2019",2017,TV-MA,"Comedies, Dramas, International Movies",Comedies
+728,"Faith, Hope & Love",6.2,s2092,Movie,United States,"February 4, 2020",2019,PG,"Comedies, Faith & Spirituality, Romantic Movies",Comedies
+729,The Prince & Me,5.9,s6777,Movie,"United States, Czech Republic","October 1, 2020",2004,PG,"Comedies, Romantic Movies",Comedies
+730,The Golem,5.6,s6400,Movie,Israel,"June 26, 2019",2018,TV-MA,"Horror Movies, Independent Movies, International Movies",Horror Movies
+731,Offering to the Storm,6.1,s4578,Movie,"Spain, Germany","July 24, 2020",2020,TV-MA,"International Movies, Thrillers",International Movies
+732,Lakshya,7.9,s3525,Movie,India,"December 15, 2019",2004,TV-PG,"Action & Adventure, Dramas, International Movies",Action & Adventure
+733,#Alive,6.2,s28,Movie,South Korea,"September 8, 2020",2020,TV-MA,"Horror Movies, International Movies, Thrillers",Horror Movies
+734,Hot Girls Wanted,6.1,s2821,Movie,United States,"May 29, 2015",2015,TV-MA,Documentaries,Documentaries
+735,Don,7.2,s1808,Movie,India,"December 15, 2019",2006,TV-14,"Action & Adventure, International Movies",Action & Adventure
+736,Don,7.8,s1808,Movie,India,"December 15, 2019",2006,TV-14,"Action & Adventure, International Movies",Action & Adventure
+737,18 Presents,6.7,s74,Movie,Italy,"May 8, 2020",2020,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+738,Wazir,7.1,s7495,Movie,India,"August 1, 2019",2016,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+739,Naruto the Movie: Ninja Clash in the Land of Snow,6.7,s4413,Movie,Japan,"September 1, 2017",2004,TV-PG,"Action & Adventure, Anime Features, International Movies",Action & Adventure
+740,Karthik Calling Karthik,7.0,s3310,Movie,India,"December 15, 2019",2010,TV-14,"Dramas, International Movies, Thrillers",Dramas
+741,The Land of Steady Habits,6.2,s6548,Movie,United States,"September 14, 2018",2018,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+742,My Big Night,6.0,s4307,Movie,Spain,"October 1, 2016",2015,TV-MA,"Comedies, International Movies, Music & Musicals",Comedies
+743,Happy Anniversary,5.7,s2609,Movie,United States,"March 30, 2018",2018,TV-MA,"Comedies, Romantic Movies",Comedies
+744,Death at a Funeral,5.7,s1669,Movie,United States,"August 1, 2020",2010,R,Comedies,Comedies
+745,Been So Long,5.4,s805,Movie,,"October 26, 2018",2018,TV-MA,"Dramas, International Movies, Music & Musicals",Dramas
+746,The Polka King,5.9,s6772,Movie,United States,"January 12, 2018",2018,TV-14,"Comedies, Independent Movies",Comedies
+747,The Smurfs 2,5.3,s6882,Movie,"United States, France, Canada, Belgium","September 15, 2020",2013,PG,"Children & Family Movies, Comedies",Children & Family Movies
+748,In the Tall Grass,5.4,s2976,Movie,"Canada, United States","October 4, 2019",2019,TV-MA,"Horror Movies, Thrillers",Horror Movies
+749,Pihu,6.7,s4858,Movie,India,"June 15, 2019",2018,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+750,War on Everyone,5.8,s7481,Movie,United Kingdom,"December 3, 2019",2016,R,"Action & Adventure, Comedies",Action & Adventure
+751,Falling Inn Love,5.6,s2100,Movie,United States,"August 29, 2019",2019,TV-PG,"Comedies, Romantic Movies",Comedies
+752,War Machine,6.0,s7480,Movie,United States,"May 26, 2017",2017,TV-MA,"Comedies, Dramas",Comedies
+753,Jonathan,5.9,s3219,Movie,United States,"April 16, 2019",2018,TV-MA,"Dramas, Independent Movies, Sci-Fi & Fantasy",Dramas
+754,Forgotten,7.4,s2245,Movie,South Korea,"February 21, 2018",2017,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+755,Reversing Roe,7.4,s5184,Movie,United States,"September 13, 2018",2018,TV-14,Documentaries,Documentaries
+756,Dream Big: Engineering Our World,6.4,s1863,Movie,United States,"July 1, 2018",2017,TV-G,Documentaries,Documentaries
+757,Time Share,6.0,s7096,Movie,"Mexico, Netherlands","November 30, 2018",2018,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+758,Lost in London,6.2,s3733,Movie,Nigeria,"December 21, 2019",2017,TV-PG,"Comedies, International Movies",Comedies
+759,Jaane Tu... Ya Jaane Na,7.5,s3094,Movie,India,"January 10, 2021",2008,TV-14,"Comedies, International Movies, Music & Musicals",Comedies
+760,Get Santa,6.2,s2387,Movie,"United Kingdom, United States","December 12, 2014",2014,PG,"Children & Family Movies, Comedies",Children & Family Movies
+761,Punjab 1984,8.5,s5004,Movie,"Canada, India","November 1, 2017",2014,TV-14,"Dramas, International Movies",Dramas
+762,What the Health,7.4,s7565,Movie,United States,"June 16, 2017",2017,TV-PG,Documentaries,Documentaries
+763,Amanda Knox,6.9,s443,Movie,"Denmark, United States","September 30, 2016",2016,TV-MA,Documentaries,Documentaries
+764,City of Joy,7.4,s1403,Movie,"United States,","September 7, 2018",2018,TV-MA,Documentaries,Documentaries
+765,The B-Side: Elsa Dorfman's Portrait Photography,6.7,s6101,Movie,United States,"October 31, 2017",2016,R,Documentaries,Documentaries
+766,Athlete A,7.7,s612,Movie,United States,"June 24, 2020",2020,PG-13,"Documentaries, Sports Movies",Documentaries
+767,The Last Days of Chez Nous,6.5,s6557,Movie,Australia,"November 1, 2016",1992,R,"Classic Movies, Dramas",Classic Movies
+768,Katt Williams: Great America,6.1,s3323,Movie,United States,"January 16, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+769,Wake Up Sid,7.6,s7463,Movie,India,"October 1, 2018",2009,TV-14,"Comedies, International Movies, Romantic Movies",Comedies
+770,John Mulaney & The Sack Lunch Bunch,7.4,s3208,Movie,United States,"December 24, 2019",2019,TV-PG,"Children & Family Movies, Comedies",Children & Family Movies
+771,Burning Sands,6.0,s1148,Movie,United States,"March 10, 2017",2017,TV-MA,"Dramas, Independent Movies",Dramas
+772,Sadece Sen,7.3,s5335,Movie,Turkey,"March 10, 2017",2014,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+773,Sergio,6.1,s5499,Movie,United States,"April 17, 2020",2020,R,"Dramas, Independent Movies",Dramas
+774,Hotel for Dogs,5.4,s2827,Movie,"Germany, United States","September 2, 2020",2009,PG,"Children & Family Movies, Comedies",Children & Family Movies
+775,Orbiter 9,5.9,s4679,Movie,"Spain, Colombia","April 6, 2018",2017,TV-14,"Dramas, International Movies, Sci-Fi & Fantasy",Dramas
+776,Cirque du Freak: The Vampire's Assistant,5.8,s1397,Movie,United States,"April 16, 2018",2009,PG-13,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Action & Adventure
+777,Jenny Slate: Stage Fright,5.8,s3149,Movie,United States,"October 22, 2019",2019,TV-MA,"Documentaries, Stand-Up Comedy",Documentaries
+778,Elizabeth Harvest,5.8,s1981,Movie,United States,"August 1, 2020",2019,R,"Dramas, Sci-Fi & Fantasy",Dramas
+779,An Interview with God,5.7,s496,Movie,United States,"March 1, 2019",2018,TV-PG,"Dramas, Faith & Spirituality",Dramas
+780,The Art of the Steal,6.3,s6094,Movie,"Canada, United States","December 8, 2018",2013,R,"Action & Adventure, Comedies, Independent Movies",Action & Adventure
+781,Room on the Broom,7.6,s5278,Movie,"United Kingdom, Germany","July 1, 2019",2012,TV-Y7,"Children & Family Movies, Independent Movies",Children & Family Movies
+782,Deidra & Laney Rob a Train,6.1,s1689,Movie,United States,"March 17, 2017",2017,TV-14,"Comedies, Dramas, Independent Movies",Comedies
+783,Bo Burnham: Make Happy,8.4,s1009,Movie,United States,"June 3, 2016",2016,TV-MA,"Music & Musicals, Stand-Up Comedy",Music & Musicals
+784,The Tiger Hunter,5.9,s6929,Movie,United States,"April 9, 2018",2016,TV-14,"Comedies, Dramas, Independent Movies",Comedies
+785,The Package,5.5,s6738,Movie,United States,"August 10, 2018",2018,TV-MA,Comedies,Comedies
+786,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,7.6,s5261,Movie,United States,"June 12, 2019",2019,TV-MA,"Documentaries, Music & Musicals",Documentaries
+787,Nights in Rodanthe,6.0,s4474,Movie,"United States, Australia","July 1, 2019",2008,PG-13,"Dramas, Romantic Movies",Dramas
+788,I'll See You in My Dreams,6.7,s2921,Movie,United States,"October 22, 2019",2015,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+789,Ibiza,5.2,s2931,Movie,United States,"May 25, 2018",2018,TV-MA,"Comedies, Romantic Movies",Comedies
+790,Q Ball,6.8,s5020,Movie,United States,"March 11, 2020",2019,TV-MA,"Documentaries, Sports Movies",Documentaries
+791,The Outsider,6.3,s6736,Movie,United States,"September 15, 2019",2019,TV-MA,Movies,Movies
+792,All Day and a Night,5.8,s408,Movie,United States,"May 1, 2020",2020,R,"Dramas, Independent Movies",Dramas
+793,Rock On!!,7.7,s5243,Movie,India,"December 15, 2019",2008,TV-14,"Dramas, International Movies, Music & Musicals",Dramas
+794,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,7.0,s6611,Movie,,"May 23, 2019",2019,TV-MA,"Comedies, Music & Musicals, Sports Movies",Comedies
+795,Marco Polo: One Hundred Eyes,7.8,s3937,Movie,United States,"December 26, 2015",2015,TV-MA,Movies,Movies
+796,The Bleeding Edge,7.7,s6144,Movie,"Australia, United States","July 27, 2018",2018,TV-14,Documentaries,Documentaries
+797,Holiday in the Wild,6.1,s2773,Movie,United States,"November 1, 2019",2019,TV-PG,"Children & Family Movies, Dramas, Romantic Movies",Children & Family Movies
+798,Lost Girls,6.1,s3732,Movie,United States,"March 13, 2020",2020,R,Dramas,Dramas
+799,Trophy,7.3,s7236,Movie,"United Kingdom, Namibia, South Africa, Zimbabwe, United States","February 13, 2018",2017,TV-MA,"Documentaries, International Movies",Documentaries
+800,Jerry Seinfeld: I'm Telling You for the Last Time,7.9,s3157,Movie,United States,"January 30, 2018",1998,TV-14,Stand-Up Comedy,Stand-Up Comedy
+801,The Skin of the Wolf,5.8,s6878,Movie,Spain,"July 6, 2018",2018,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+802,Kevin Hart: Irresponsible,6.5,s3343,Movie,United States,"April 2, 2019",2019,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+803,Money Heist: The Phenomenon,7.5,s4177,Movie,Spain,"April 3, 2020",2020,TV-MA,"Documentaries, International Movies",Documentaries
+804,Norman Lear: Just Another Version of You,7.3,s4511,Movie,United States,"November 1, 2016",2016,TV-MA,Documentaries,Documentaries
+805,In Darkness,5.8,s2962,Movie,"United Kingdom, United States","September 22, 2018",2018,TV-MA,"Independent Movies, International Movies, Thrillers",Independent Movies
+806,Juanita,5.9,s3230,Movie,United States,"March 8, 2019",2019,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+807,The Heartbreak Kid,5.8,s6446,Movie,United States,"May 1, 2020",2007,R,"Comedies, Romantic Movies",Comedies
+808,Can't Help Falling in Love,7.1,s1196,Movie,Philippines,"February 27, 2019",2017,TV-14,"Comedies, Dramas, International Movies",Comedies
+809,The Bad Education Movie,5.8,s6109,Movie,United Kingdom,"December 15, 2018",2015,TV-MA,Comedies,Comedies
+810,The Crimes That Bind,6.7,s6252,Movie,Argentina,"August 20, 2020",2020,TV-14,"Dramas, International Movies",Dramas
+811,The Force,6.8,s6366,Movie,United States,"January 29, 2018",2017,TV-MA,Documentaries,Documentaries
+812,7:19,6.0,s2,Movie,Mexico,"December 23, 2016",2016,TV-MA,"Dramas, International Movies",Dramas
+813,13 Cameras,5.1,s63,Movie,United States,"August 13, 2016",2015,NR,"Horror Movies, Independent Movies, Thrillers",Horror Movies
+814,Irreplaceable You,6.4,s3061,Movie,United States,"February 16, 2018",2018,TV-MA,"Dramas, Romantic Movies",Dramas
+815,Honeytrap,5.9,s2797,Movie,United Kingdom,"May 20, 2020",2014,TV-MA,"Dramas, Independent Movies",Dramas
+816,Choked: Paisa Bolta Hai,5.8,s1349,Movie,India,"June 5, 2020",2020,TV-14,"Dramas, International Movies",Dramas
+817,Revolt,5.2,s5186,Movie,United Kingdom,"March 31, 2018",2017,R,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+818,Seventh Son,5.5,s5520,Movie,"United States, United Kingdom, Canada, China","August 16, 2020",2014,PG-13,"Action & Adventure, Sci-Fi & Fantasy",Action & Adventure
+819,The Body Remembers When the World Broke Open,6.8,s6152,Movie,"Canada, Norway","November 27, 2019",2019,TV-MA,"Dramas, Independent Movies",Dramas
+820,The Silence,5.3,s6871,Movie,"Canada, Germany","April 10, 2019",2019,PG-13,"Horror Movies, Thrillers",Horror Movies
+821,Human Nature,7.7,s2862,Movie,United States,"October 1, 2020",2019,TV-PG,Documentaries,Documentaries
+822,Kiss the Ground,8.3,s3415,Movie,United States,"September 22, 2020",2020,TV-G,Documentaries,Documentaries
+823,Jim Gaffigan: Mr. Universe,7.8,s3170,Movie,United States,"August 11, 2016",2012,TV-14,Stand-Up Comedy,Stand-Up Comedy
+824,A Very Murray Christmas,5.5,s248,Movie,United States,"December 4, 2015",2015,TV-14,"Comedies, Music & Musicals",Comedies
+825,Secret,7.5,s5458,Movie,"Hong Kong, Taiwan","July 1, 2018",2007,TV-PG,"Dramas, International Movies, Music & Musicals",Dramas
+826,The Lovers,6.0,s6625,Movie,United States,"November 5, 2019",2017,R,"Comedies, Dramas, Independent Movies",Comedies
+827,100 Meters,7.5,s55,Movie,"Portugal, Spain","March 10, 2017",2016,TV-MA,"Dramas, International Movies, Sports Movies",Dramas
+828,For Colored Girls,6.1,s2222,Movie,United States,"May 1, 2020",2010,R,Dramas,Dramas
+829,Zero,5.4,s7765,Movie,India,"May 21, 2019",2018,TV-14,"Comedies, Dramas, International Movies",Comedies
+830,Satan & Adam,7.4,s5402,Movie,United States,"June 1, 2019",2018,TV-MA,"Documentaries, Music & Musicals",Documentaries
+831,The 4th Company,6.2,s6058,Movie,"Mexico, Spain","April 6, 2018",2016,TV-MA,"Action & Adventure, Dramas, International Movies",Action & Adventure
+832,Dream Boat,5.3,s1864,Movie,Germany,"December 1, 2017",2017,TV-MA,"Documentaries, International Movies, LGBTQ Movies",Documentaries
+833,The Green Inferno,5.3,s6427,Movie,"United States, Spain","November 16, 2019",2013,R,"Horror Movies, Independent Movies",Horror Movies
+834,Sprinter,6.2,s5773,Movie,"Jamaica, United States","April 15, 2020",2018,TV-MA,"Dramas, International Movies, Sports Movies",Dramas
+835,The Student,6.8,s6910,Movie,United States,"March 15, 2019",2017,TV-14,Thrillers,Thrillers
+836,Dean,6.2,s1661,Movie,United States,"March 15, 2020",2016,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+837,Lingua Franca,6.1,s3649,Movie,"United States, Philippines","August 26, 2020",2020,TV-MA,"Dramas, International Movies, LGBTQ Movies",Dramas
+838,Frank & Lola,5.9,s2260,Movie,United States,"March 1, 2020",2016,TV-MA,"Dramas, Thrillers",Dramas
+839,Closed Circuit,6.2,s1424,Movie,"United Kingdom, United States","October 16, 2017",2013,R,"Dramas, Thrillers",Dramas
+840,The Young Messiah,5.6,s7028,Movie,United States,"August 27, 2020",2016,PG-13,"Dramas, Faith & Spirituality",Dramas
+841,Hop,5.4,s2802,Movie,United States,"January 16, 2020",2011,PG,"Children & Family Movies, Comedies",Children & Family Movies
+842,The Super,5.9,s6914,Movie,United States,"February 16, 2019",2017,R,Horror Movies,Horror Movies
+843,Ek Ladki Ko Dekha Toh Aisa Laga,5.5,s1940,Movie,India,"April 2, 2019",2019,TV-14,"Comedies, Dramas, International Movies",Comedies
+844,Results,5.4,s5172,Movie,United States,"October 22, 2015",2015,R,"Comedies, Independent Movies",Comedies
+845,The Tree of Blood,6.4,s6939,Movie,Spain,"February 8, 2019",2018,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+846,A Tale of Love and Darkness,6.0,s237,Movie,"Israel, United States","October 25, 2019",2015,PG-13,"Dramas, International Movies",Dramas
+847,Ajji,6.9,s362,Movie,India,"May 1, 2018",2017,TV-MA,"Dramas, International Movies",Dramas
+848,Chalte Chalte,6.6,s1266,Movie,India,"July 1, 2018",2003,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+849,Tread,7.1,s7203,Movie,United States,"July 29, 2020",2019,TV-MA,Documentaries,Documentaries
+850,Arthur,5.7,s588,Movie,United States,"April 1, 2019",2011,PG-13,"Comedies, Romantic Movies",Comedies
+851,Arjun: The Warrior Prince,6.8,s582,Movie,India,"November 1, 2018",2011,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+852,Struggle: The Life and Lost Art of Szukalski,8.0,s5857,Movie,"Poland, United States","December 21, 2018",2018,TV-MA,Documentaries,Documentaries
+853,Susanne Bartsch: On Top,6.6,s5929,Movie,United States,"December 10, 2018",2017,TV-MA,"Documentaries, LGBTQ Movies",Documentaries
+854,The Nutcracker and the Four Realms,5.5,s6715,Movie,United States,"May 28, 2019",2018,PG,Children & Family Movies,Children & Family Movies
+855,Neal Brennan: 3 Mics,7.9,s4441,Movie,United States,"January 17, 2017",2017,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+856,Come and Find Me,5.7,s1469,Movie,"Canada, United States, United Kingdom","September 18, 2019",2016,R,"Dramas, Thrillers",Dramas
+857,The Car,6.2,s6199,Movie,United States,"June 1, 2020",1977,PG,"Cult Movies, Horror Movies",Cult Movies
+858,A Family Man,6.5,s171,Movie,"Canada, United States","December 15, 2019",2016,R,Dramas,Dramas
+859,Aurora,6.6,s623,Movie,"Romania, France, Switzerland, Germany","March 4, 2020",2010,TV-MA,"Dramas, International Movies",Dramas
+860,Happy New Year,5.0,s2614,Movie,India,"February 1, 2017",2014,TV-14,"Action & Adventure, Comedies, Dramas",Action & Adventure
+861,Gurgaon,6.6,s2557,Movie,India,"May 1, 2018",2017,TV-14,"Dramas, International Movies, Thrillers",Dramas
+862,Catfight,5.8,s1246,Movie,United States,"June 1, 2017",2016,TV-MA,"Comedies, Independent Movies",Comedies
+863,Habibie & Ainun,7.6,s2573,Movie,"Indonesia, Singapore","January 28, 2019",2012,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+864,6 Years,5.6,s129,Movie,United States,"September 8, 2015",2015,TV-MA,"Dramas, Independent Movies, Romantic Movies",Dramas
+865,Aftermath,5.6,s331,Movie,"United Kingdom, United States","March 15, 2020",2017,R,Dramas,Dramas
+866,Hari Kondabolu: Warn Your Relatives,6.4,s2627,Movie,United States,"May 8, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+867,High Flying Bird,6.2,s2730,Movie,United States,"February 8, 2019",2019,TV-MA,"Dramas, Sports Movies",Dramas
+868,Close,5.7,s1421,Movie,"United Kingdom, United States","January 18, 2019",2019,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+869,WHAT DID JACK DO?,6.5,s7550,Movie,United States,"January 20, 2020",2020,TV-14,"Dramas, Independent Movies",Dramas
+870,Jim Gaffigan: Obsessed,7.6,s3171,Movie,United States,"August 11, 2016",2014,TV-14,Stand-Up Comedy,Stand-Up Comedy
+871,Jim Gaffigan: Beyond the Pale,8.0,s3167,Movie,United States,"August 11, 2016",2005,TV-14,Stand-Up Comedy,Stand-Up Comedy
+872,The Bad Batch,5.3,s6108,Movie,United States,"September 22, 2017",2016,R,"Dramas, Independent Movies, Thrillers",Dramas
+873,Toro,5.9,s7159,Movie,Spain,"April 1, 2017",2016,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+874,The Invisible Guardian,6.4,s6504,Movie,"Spain, Germany","August 3, 2017",2017,TV-MA,"International Movies, Thrillers",International Movies
+875,The Man Without Gravity,6.4,s6640,Movie,"Italy, Belgium","November 1, 2019",2019,TV-MA,"Dramas, International Movies",Dramas
+876,Jeff Dunham: Controlled Chaos,7.5,s3137,Movie,United States,"March 15, 2019",2011,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+877,American Son,5.7,s475,Movie,United States,"November 1, 2019",2019,TV-MA,Dramas,Dramas
+878,God's Not Dead,4.7,s2455,Movie,United States,"April 1, 2020",2014,PG,"Dramas, Faith & Spirituality",Dramas
+879,Don't Go Breaking My Heart,6.5,s1817,Movie,Hong Kong,"December 1, 2018",2011,TV-PG,"Comedies, International Movies, Romantic Movies",Comedies
+880,She's Dating the Gangster,7.2,s5556,Movie,Philippines,"February 27, 2019",2014,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+881,Mine,5.9,s4111,Movie,"United States, Spain, Italy","February 28, 2019",2016,TV-14,"Dramas, International Movies, Thrillers",Dramas
+882,Berlin Calling,7.3,s839,Movie,Germany,"January 15, 2017",2008,TV-MA,"Dramas, International Movies, Music & Musicals",Dramas
+883,Await Further Instructions,4.8,s638,Movie,United Kingdom,"February 2, 2019",2018,TV-MA,"Horror Movies, Sci-Fi & Fantasy",Horror Movies
+884,Bheeshma,6.5,s891,Movie,India,"April 25, 2020",2020,TV-14,"Action & Adventure, Comedies, International Movies",Action & Adventure
+885,Yuva,7.4,s7755,Movie,India,"March 1, 2018",2004,TV-14,"Dramas, International Movies",Dramas
+886,Belgica,6.7,s824,Movie,"Belgium, France","April 15, 2016",2016,TV-MA,"Dramas, International Movies",Dramas
+887,OtherLife,6.3,s4690,Movie,"Australia, United Arab Emirates","October 15, 2017",2017,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+888,Equals,6.1,s2017,Movie,"United States, Indonesia","October 28, 2018",2015,PG-13,"Dramas, Romantic Movies, Sci-Fi & Fantasy",Dramas
+889,Bert Kreischer: Secret Time,7.4,s848,Movie,,"August 24, 2018",2018,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+890,House at the End of the Street,5.6,s2832,Movie,"United States, Canada","May 8, 2020",2012,PG-13,"Horror Movies, Thrillers",Horror Movies
+891,Pandora,6.7,s4753,Movie,South Korea,"March 17, 2017",2016,TV-MA,"Dramas, International Movies, Thrillers",Dramas
+892,For Love or Money,6.2,s2226,Movie,United Kingdom,"August 16, 2019",2019,TV-MA,Comedies,Comedies
+893,Erased,6.1,s2021,TV Show,Japan,"September 1, 2020",2016,TV-14,"Anime Series, International TV Shows, TV Thrillers",Anime Series
+894,Serious Men,7.0,s5501,Movie,India,"October 2, 2020",2020,TV-MA,"Comedies, Dramas, International Movies",Comedies
+895,Goon: Last of the Enforcers,5.8,s2498,Movie,Canada,"December 30, 2017",2016,R,"Comedies, International Movies, Sports Movies",Comedies
+896,My Entire High School Sinking Into the Sea,6.1,s4315,Movie,United States,"January 23, 2018",2016,PG-13,"Comedies, Independent Movies",Comedies
+897,"Love, Guaranteed",5.5,s3786,Movie,United States,"September 3, 2020",2020,TV-PG,"Comedies, Independent Movies, Romantic Movies",Comedies
+898,Mersal,7.6,s4052,Movie,India,"August 21, 2018",2017,TV-14,"Action & Adventure, Dramas, International Movies",Action & Adventure
+899,Death Note,4.5,s1673,Movie,United States,"August 25, 2017",2017,TV-MA,"Horror Movies, Thrillers",Horror Movies
+900,The Do-Over,5.7,s6308,Movie,United States,"May 27, 2016",2016,TV-MA,"Action & Adventure, Comedies",Action & Adventure
+901,Tom Segura: Mostly Stories,7.6,s7141,Movie,United States,"January 8, 2016",2016,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+902,No Game No Life: Zero,7.5,s4489,Movie,Japan,"December 6, 2019",2017,TV-MA,"Action & Adventure, Anime Features, Sci-Fi & Fantasy",Action & Adventure
+903,Between Worlds,4.2,s866,Movie,Spain,"April 6, 2019",2018,R,Thrillers,Thrillers
+904,A Christmas Prince: The Royal Wedding,5.3,s162,Movie,United States,"November 30, 2018",2018,TV-PG,"Children & Family Movies, Dramas, Romantic Movies",Children & Family Movies
+905,Mindhorn,6.3,s4109,Movie,United Kingdom,"May 12, 2017",2017,TV-MA,"Comedies, Cult Movies, Independent Movies",Comedies
+906,Goldie,5.3,s2467,Movie,United States,"June 22, 2020",2019,TV-MA,Dramas,Dramas
+907,Mucize,7.7,s4269,Movie,Turkey,"March 10, 2017",2015,TV-14,"Dramas, International Movies",Dramas
+908,Becoming,6.8,s800,Movie,United States,"May 6, 2020",2020,PG,Documentaries,Documentaries
+909,The Bar,6.3,s6113,Movie,"Spain, Argentina","September 24, 2017",2017,TV-MA,"Comedies, Horror Movies, International Movies",Comedies
+910,Inhuman Kiss,6.5,s3002,Movie,Thailand,"June 30, 2019",2019,TV-MA,"Horror Movies, International Movies, Romantic Movies",Horror Movies
+911,Take Me,6.1,s5960,Movie,United States,"July 7, 2017",2017,TV-MA,"Comedies, Independent Movies",Comedies
+912,Trailer Park Boys: Countdown to Liquor Day,7.4,s7173,Movie,Canada,"March 30, 2018",2009,R,"Comedies, Cult Movies",Comedies
+913,See You Yesterday,5.1,s5482,Movie,United States,"May 17, 2019",2019,TV-MA,"Dramas, Sci-Fi & Fantasy, Thrillers",Dramas
+914,The Sleepover,5.5,s6880,Movie,United States,"August 21, 2020",2020,TV-PG,"Action & Adventure, Children & Family Movies, Comedies",Action & Adventure
+915,Taylor Tomlinson: Quarter-Life Crisis,7.4,s5998,Movie,United States,"March 3, 2020",2020,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+916,An Evening with Beverly Luff Linn,5.7,s492,Movie,"United Kingdom, United States","June 17, 2020",2018,R,"Comedies, Independent Movies",Comedies
+917,Skins,6.3,s5651,Movie,Spain,"April 1, 2017",2017,TV-MA,"Dramas, International Movies",Dramas
+918,Double World,6.1,s1835,Movie,China,"July 25, 2020",2020,TV-14,"Action & Adventure, International Movies",Action & Adventure
+919,Isi & Ossi,6.4,s3068,Movie,Germany,"February 14, 2020",2020,TV-MA,"Comedies, International Movies, Romantic Movies",Comedies
+920,Chelsea Peretti: One of the Greats,7.0,s1311,Movie,United States,"November 14, 2014",2014,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+921,Jeff Dunham: Arguing with Myself,8.0,s3135,Movie,United States,"March 15, 2019",2006,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+922,Duck Butter,5.3,s1888,Movie,United States,"July 1, 2018",2018,TV-MA,"Dramas, Independent Movies, LGBTQ Movies",Dramas
+923,Masoom,8.4,s3984,Movie,India,"December 31, 2019",1983,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+924,Aamir,7.7,s270,Movie,India,"November 1, 2018",2008,TV-14,"International Movies, Thrillers",International Movies
+925,Beyond the Clouds,7.0,s879,Movie,"India, Iran","August 10, 2018",2018,TV-14,"Dramas, Independent Movies, International Movies",Dramas
+926,Jim Gaffigan: King Baby,7.8,s3169,Movie,United States,"August 11, 2016",2009,TV-PG,Stand-Up Comedy,Stand-Up Comedy
+927,The Five Venoms,7.1,s6358,Movie,Hong Kong,"July 31, 2018",1978,R,"Action & Adventure, Cult Movies, International Movies",Action & Adventure
+928,Kevin Hart's Guide to Black History,5.5,s3349,Movie,United States,"February 8, 2019",2019,TV-PG,"Children & Family Movies, Comedies",Children & Family Movies
+929,The Outcasts,5.5,s6734,Movie,United States,"August 14, 2017",2017,TV-14,Comedies,Comedies
+930,My Ex & Whys,6.2,s4316,Movie,Philippines,"February 27, 2019",2017,TV-14,"Comedies, Dramas, International Movies",Comedies
+931,The Motive,6.5,s6690,Movie,"Spain, Mexico","August 17, 2018",2017,TV-MA,"Comedies, Dramas, International Movies",Comedies
+932,Shepherds and Butchers,6.8,s5562,Movie,"South Africa, United States, Germany","April 25, 2017",2016,R,"Dramas, International Movies",Dramas
+933,The Rachel Divide,6.2,s6798,Movie,United States,"April 27, 2018",2018,TV-MA,Documentaries,Documentaries
+934,Teefa in Trouble,7.2,s6008,Movie,Pakistan,"December 2, 2018",2018,TV-14,"Action & Adventure, Comedies, International Movies",Action & Adventure
+935,A Plastic Ocean,8.0,s217,Movie,"United Kingdom, Hong Kong","October 4, 2019",2016,TV-14,Documentaries,Documentaries
+936,Unicorn Store,5.5,s7349,Movie,United States,"April 5, 2019",2019,TV-14,"Comedies, Dramas, Independent Movies",Comedies
+937,Rowdy Rathore,5.7,s5290,Movie,India,"August 2, 2018",2012,TV-14,"Action & Adventure, Comedies, International Movies",Action & Adventure
+938,Kaminey,7.4,s3298,Movie,India,"October 1, 2018",2009,TV-14,"Dramas, International Movies, Music & Musicals",Dramas
+939,5 Flights Up,6.2,s119,Movie,United States,"March 17, 2019",2014,PG-13,"Comedies, Dramas, Independent Movies",Comedies
+940,Jeremiah Tower: The Last Magnificent,6.5,s3151,Movie,"Mexico, United States","December 20, 2017",2016,R,Documentaries,Documentaries
+941,I Will Follow,5.9,s2919,Movie,United States,"May 20, 2020",2010,TV-14,"Dramas, Independent Movies, Romantic Movies",Dramas
+942,Mute,5.4,s4299,Movie,"United Kingdom, Germany","February 23, 2018",2018,TV-MA,"Sci-Fi & Fantasy, Thrillers",Sci-Fi & Fantasy
+943,Rim of the World,5.2,s5210,Movie,United States,"May 24, 2019",2019,TV-14,"Action & Adventure, Independent Movies, Sci-Fi & Fantasy",Action & Adventure
+944,Christmas Inheritance,5.7,s1368,Movie,United States,"December 15, 2017",2017,TV-G,"Dramas, International Movies, Romantic Movies",Dramas
+945,Aziz Ansari: Buried Alive,7.3,s650,Movie,United States,"November 1, 2013",2013,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+946,Otherhood,6.1,s4689,Movie,"United Kingdom, United States","August 2, 2019",2019,R,Comedies,Comedies
+947,The Night Clerk,5.5,s6709,Movie,United States,"June 6, 2020",2020,R,"Dramas, Independent Movies",Dramas
+948,The Awakening of Motti Wolkenbruch,6.6,s6100,Movie,Switzerland,"October 25, 2019",2018,TV-MA,"Comedies, Dramas, International Movies",Comedies
+949,Septembers of Shiraz,6.1,s5497,Movie,United States,"August 24, 2020",2016,PG-13,"Dramas, Thrillers",Dramas
+950,Steel Rain,7.1,s5809,Movie,South Korea,"March 14, 2018",2018,TV-MA,"Action & Adventure, Dramas, International Movies",Action & Adventure
+951,A Haunted House,5.0,s184,Movie,United States,"February 21, 2020",2013,R,"Comedies, Horror Movies",Comedies
+952,Bhoot,6.5,s893,Movie,India,"December 31, 2019",2003,TV-MA,"Horror Movies, International Movies, Thrillers",Horror Movies
+953,Skiptrace,5.7,s5652,Movie,"China, Hong Kong, United States","July 4, 2019",2016,PG-13,"Action & Adventure, Comedies",Action & Adventure
+954,Crazy Beautiful You,7.1,s1522,Movie,Philippines,"August 6, 2019",2015,TV-14,"Comedies, Dramas, International Movies",Comedies
+955,Bana Masal Anlatma,7.5,s713,Movie,Turkey,"March 10, 2017",2015,TV-14,"Comedies, International Movies, Romantic Movies",Comedies
+956,Chopsticks,6.5,s1350,Movie,India,"May 31, 2019",2019,TV-MA,"Comedies, Dramas, Independent Movies",Comedies
+957,Hazaaron Khwaishein Aisi,7.9,s2664,Movie,"India, France","April 15, 2019",2003,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+958,The Nut Job,5.7,s6714,Movie,"Canada, South Korea, United States","June 18, 2020",2014,PG,"Children & Family Movies, Comedies",Children & Family Movies
+959,Tune in for Love,7.1,s7268,Movie,South Korea,"November 5, 2019",2019,TV-MA,"Dramas, International Movies, Romantic Movies",Dramas
+960,The Hurricane Heist,5.1,s6475,Movie,"United Kingdom, United States","September 26, 2018",2018,PG-13,Action & Adventure,Action & Adventure
+961,Initial D,6.4,s3004,Movie,"China, Hong Kong","August 1, 2018",2005,TV-14,"Action & Adventure, International Movies",Action & Adventure
+962,Sadma,8.4,s5337,Movie,India,"December 31, 2019",1983,TV-14,"Dramas, International Movies, Romantic Movies",Dramas
+963,3 Generations,5.9,s99,Movie,United States,"August 28, 2017",2015,PG-13,"Dramas, LGBTQ Movies",Dramas
+964,Amar Akbar Anthony,7.5,s447,Movie,India,"December 31, 2019",1977,TV-14,"Action & Adventure, Classic Movies, Comedies",Action & Adventure
+965,The Island,6.3,s6512,Movie,Nigeria,"November 29, 2019",2018,TV-14,"Dramas, International Movies, Thrillers",Dramas
+966,Uyare,8.1,s7379,Movie,India,"August 14, 2019",2019,TV-14,"Dramas, International Movies",Dramas
+967,Miss Representation,7.6,s4143,Movie,United States,"October 20, 2017",2011,NR,Documentaries,Documentaries
+968,The Ivory Game,7.9,s6514,Movie,Austria,"November 4, 2016",2016,TV-14,Documentaries,Documentaries
+969,Revenger,5.7,s5183,Movie,South Korea,"January 15, 2019",2018,TV-MA,"Action & Adventure, International Movies",Action & Adventure
+970,Hostages,6.1,s2816,Movie,,"January 29, 2018",2017,TV-PG,"Documentaries, International Movies",Documentaries
+971,Miracle in Cell No. 7,7.5,s4121,Movie,Turkey,"March 13, 2020",2019,TV-14,"Dramas, International Movies",Dramas
+972,Angamaly Diaries,8.0,s515,Movie,India,"July 1, 2018",2017,TV-14,"Action & Adventure, Comedies, Dramas",Action & Adventure
+973,Acts of Vengeance,5.7,s302,Movie,"Bulgaria, United States","January 25, 2018",2017,R,"Action & Adventure, International Movies",Action & Adventure
+974,Ronny Chieng: Asian Comedian Destroys America!,7.4,s5273,Movie,United States,"December 17, 2019",2019,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+975,Sinister 2,5.3,s5634,Movie,"United States, United Kingdom","October 16, 2019",2015,R,Horror Movies,Horror Movies
+976,Cuties,2.9,s1560,Movie,France,"September 9, 2020",2020,TV-MA,"Dramas, International Movies",Dramas
+977,Billu,6.2,s927,Movie,India,"April 1, 2018",2009,TV-PG,"Dramas, International Movies",Dramas
+978,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,7.2,s7320,Movie,United States,"May 12, 2020",2020,TV-14,Comedies,Comedies
+979,Ali Wong: Baby Cobra,7.5,s387,Movie,United States,"May 6, 2016",2016,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+980,Do Dooni Chaar,7.6,s1791,Movie,India,"November 1, 2018",2010,TV-PG,"Comedies, International Movies",Comedies
+981,Kannum Kannum Kollaiyadithaal,7.7,s3302,Movie,India,"March 29, 2020",2020,TV-14,"Comedies, Dramas, International Movies",Comedies
+982,Sleepover,5.4,s5667,Movie,United States,"March 1, 2020",2004,PG,"Comedies, Romantic Movies",Comedies
+983,Come Sunday,6.0,s1470,Movie,United States,"April 13, 2018",2018,TV-14,"Dramas, Faith & Spirituality, Independent Movies",Dramas
+984,Chillar Party,7.4,s1338,Movie,India,"August 2, 2018",2011,TV-PG,"Children & Family Movies, Comedies, Dramas",Children & Family Movies
+985,Savage Dog,4.9,s5411,Movie,United States,"November 1, 2017",2017,TV-MA,"Action & Adventure, Independent Movies",Action & Adventure
+986,At First Light,5.5,s609,Movie,Canada,"December 27, 2018",2018,TV-14,"Dramas, Sci-Fi & Fantasy",Dramas
+987,Straight Up,6.7,s5831,Movie,United States,"June 26, 2020",2020,TV-MA,"Comedies, Independent Movies, LGBTQ Movies",Comedies
+988,Harishchandrachi Factory,8.4,s2628,Movie,India,"October 1, 2018",2009,TV-PG,"Dramas, International Movies",Dramas
+989,The Tribes of Palos Verdes,5.8,s6944,Movie,United States,"December 1, 2019",2017,R,"Dramas, Independent Movies, Sports Movies",Dramas
+990,Blind Detective,6.5,s980,Movie,"Hong Kong, China","December 1, 2018",2013,TV-MA,"Action & Adventure, Comedies, International Movies",Action & Adventure
+991,The Climb,6.9,s6228,Movie,France,"December 29, 2017",2017,TV-14,"Action & Adventure, Comedies, Dramas",Action & Adventure
+992,Kevin Hart: Seriously Funny,7.6,s3346,Movie,United States,"October 1, 2018",2010,TV-MA,Stand-Up Comedy,Stand-Up Comedy
+993,Dilwale,5.2,s1765,Movie,India,"February 1, 2017",2015,TV-PG,"Action & Adventure, Dramas, International Movies",Action & Adventure
+994,Seal Team Six: The Raid on Osama Bin Laden,5.7,s5448,Movie,United States,"January 1, 2020",2012,TV-MA,Action & Adventure,Action & Adventure
+995,Radio Rebel,5.9,s5058,Movie,United States,"March 1, 2019",2012,TV-G,"Children & Family Movies, Comedies",Children & Family Movies
+996,Umrika,6.6,s7311,Movie,India,"October 1, 2016",2015,TV-MA,"Dramas, Independent Movies, International Movies",Dramas
+997,Semana Santa,6.0,s5491,Movie,Mexico,"January 31, 2017",2015,TV-MA,"Dramas, International Movies",Dramas
+998,Raajneeti,7.1,s5048,Movie,India,"August 2, 2018",2010,TV-14,"Dramas, International Movies, Thrillers",Dramas
