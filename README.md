@@ -11,4 +11,4 @@ DataBaes are looking at the correlation between IMDB ratings and title genres in
 * **Transform:**  To transform our data we started by analyzing the above CSV files and narrowing the information. We filtered and dropped unwanted columns and null values from the netflix-shows data to narrow our dataset to eight columns: show_id, type, title, country, data_added, release_year, rating, and listed_in.
 
 * **Load:** Our final dataframe is housed in a relational database created in pgAdmin titled DataBaes. We chose a relational database to support the table and row structure of our dataframe. This final database includes information about Netflix titles and also reflects viewer reviews from IMDb.
-* More in depth analysis and appendix can be found in the <ins>ETL Project: Netflix Ratings and Production<ins>.
+* More in depth analysis and appendix can be found in the <ins>ETL Project: Netflix Ratings and Production</ins> folder in the main repository.
